@@ -16,17 +16,17 @@ Upper Fortune (Good / Auspicious)
 
 **Fortune Poem:**
 Good to transfer the night moon's produce to autumn,
-The bright pearl in your sleeve—do not cast it into darkness.
+The bright pearl in your sleeve - do not cast it into darkness.
 There will naturally be noble helpers exerting great effort,
 No need for doubt or hesitation between both parties.
 
 **Interpretation:**
-Things are precious when timed right; when the time comes, encounters happen naturally. Make changes and take action—no need for doubt or worry.
+Things are precious when timed right; when the time comes, encounters happen naturally. Make changes and take action - no need for doubt or worry.
 
 **Extended Interpretation:**
 • This fortune indicates that you possess something valuable (the pearl in your sleeve) but must choose the right moment to reveal or use it. Timing is everything.
 • Noble helpers will assist you without you having to ask. Trust that support will come naturally when you take action at the appropriate time.
-• Doubts and hesitation are unnecessary—conditions are favorable for moving forward with your plans. Act with confidence.
+• Doubts and hesitation are unnecessary - conditions are favorable for moving forward with your plans. Act with confidence.
 
 ---
 
@@ -46,7 +46,7 @@ Vật quý được thời, thời đến tự gặp. Thay đổi hành động,
 **Ý Nghĩa Mở Rộng:**
 • Quẻ này cho thấy bạn sở hữu điều quý giá (ngọc trong tay) nhưng phải chọn đúng thời điểm để bộc lộ hoặc sử dụng. Thời điểm là tất cả.
 • Quý nhân sẽ giúp đỡ mà không cần bạn phải yêu cầu. Tin tưởng rằng sự hỗ trợ sẽ đến tự nhiên khi bạn hành động đúng lúc.
-• Nghi ngờ và do dự là không cần thiết—điều kiện thuận lợi để tiến hành kế hoạch. Hãy hành động với sự tự tin.
+• Nghi ngờ và do dự là không cần thiết - điều kiện thuận lợi để tiến hành kế hoạch. Hãy hành động với sự tự tin.
 
 ---
 
@@ -68,7 +68,7 @@ Even in your private home, you must guard against misfortune.
 Ren and Gui clash in conflict; right and wrong are rough and difficult. Not only in public courts, but private doors also worry about disaster.
 
 **Extended Interpretation:**
-• This fortune warns of attacks from multiple directions—both in your professional/public life and in your private/home life. No sphere is safe from trouble during this period.
+• This fortune warns of attacks from multiple directions - both in your professional/public life and in your private/home life. No sphere is safe from trouble during this period.
 • Others may criticize, mock, or undermine you, especially when you are already facing difficulties. Be prepared for people to take advantage of your vulnerable moments.
 • Exercise extreme caution in all dealings. Protect yourself legally, secure your home, and be wary of both external threats and internal family conflicts.
 
@@ -88,7 +88,7 @@ Tư gia cửa ngõ cũng phòng lo.
 Nhâm Quý giao tranh, thị phi gập ghềnh. Không chỉ công đường, tư môn cũng lo họa.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này cảnh báo về những tấn công từ nhiều hướng—cả trong đời sống công việc/công cộng và trong đời sống riêng tư/gia đình. Không lĩnh vực nào an toàn khỏi rắc rối trong giai đoạn này.
+• Quẻ này cảnh báo về những tấn công từ nhiều hướng - cả trong đời sống công việc/công cộng và trong đời sống riêng tư/gia đình. Không lĩnh vực nào an toàn khỏi rắc rối trong giai đoạn này.
 • Người khác có thể chỉ trích, chế giễu, hoặc phá hoại bạn, đặc biệt khi bạn đang gặp khó khăn. Hãy chuẩn bị cho việc người ta lợi dụng những lúc bạn yếu đuối.
 • Hãy cực kỳ thận trọng trong mọi giao dịch. Bảo vệ bản thân về mặt pháp lý, bảo vệ nhà cửa, và cảnh giác với cả mối đe dọa bên ngoài lẫn xung đột gia đình nội bộ.
 
@@ -106,15 +106,15 @@ Upper Fortune (Good / Auspicious)
 In the hexagram, the auspicious sign is called Azure Dragon,
 In all matters and plans, everywhere leads to success.
 Daughter marries, son weds, official matters are fortunate,
-Furthermore, no worries—joy upon joy abounds.
+Furthermore, no worries - joy upon joy abounds.
 
 **Interpretation:**
-The hexagram sign is Azure Dragon; all matters prosper smoothly. Son's wedding, daughter's marriage—joyous feelings multiply.
+The hexagram sign is Azure Dragon; all matters prosper smoothly. Son's wedding, daughter's marriage - joyous feelings multiply.
 
 **Extended Interpretation:**
 • This is an exceptionally auspicious fortune. The Azure Dragon (Qing Long) is one of the most positive symbols in Chinese astrology, bringing success, prosperity, and happiness in all areas.
 • Family matters, especially marriages and unions, are particularly blessed. This is an excellent time for weddings, engagements, and forming new family bonds.
-• Success will come in multiple areas simultaneously—career, legal matters, relationships, and finances all show favorable signs. Expect layer upon layer of good news.
+• Success will come in multiple areas simultaneously - career, legal matters, relationships, and finances all show favorable signs. Expect layer upon layer of good news.
 
 ---
 
@@ -134,7 +134,7 @@ Quẻ điềm Thanh Long, trăm sự hanh thông. Trai cưới gái gả, vui m�
 **Ý Nghĩa Mở Rộng:**
 • Đây là quẻ cực kỳ tốt lành. Thanh Long là một trong những biểu tượng tích cực nhất trong chiêm tinh Trung Hoa, mang đến thành công, thịnh vượng và hạnh phúc trong mọi lĩnh vực.
 • Các vấn đề gia đình, đặc biệt là hôn nhân và kết hợp, được ban phước đặc biệt. Đây là thời điểm tuyệt vời cho đám cưới, đính hôn, và hình thành mối quan hệ gia đình mới.
-• Thành công sẽ đến trong nhiều lĩnh vực cùng lúc—sự nghiệp, vấn đề pháp lý, quan hệ, và tài chính đều cho thấy dấu hiệu thuận lợi. Hãy mong đợi tin vui chồng chất.
+• Thành công sẽ đến trong nhiều lĩnh vực cùng lúc - sự nghiệp, vấn đề pháp lý, quan hệ, và tài chính đều cho thấy dấu hiệu thuận lợi. Hãy mong đợi tin vui chồng chất.
 
 ---
 
@@ -148,7 +148,7 @@ Lower Fortune (Caution Advised)
 
 **Fortune Poem:**
 Adversity and opposition clash, leading to struggles,
-Being wrongly accused—truth is truly hard to distinguish.
+Being wrongly accused - truth is truly hard to distinguish.
 Noble helpers have not yet polished the covered mirror,
 Right now, thoughts are tangled like disordered hemp.
 
@@ -158,7 +158,7 @@ Right now things are tangled; noble helpers have not yet been met. Both sides cl
 **Extended Interpretation:**
 • This fortune describes a period of confusion and conflict where the truth is obscured. Like a dusty mirror that cannot reflect clearly, the situation lacks clarity.
 • You may be falsely accused or misunderstood, and distinguishing right from wrong is extremely difficult. Others cannot see your true intentions or the real facts.
-• Mental confusion is indicated—your thoughts are tangled. Wait for a noble helper to appear who can help clear the situation. Acting now will only create more disorder.
+• Mental confusion is indicated - your thoughts are tangled. Wait for a noble helper to appear who can help clear the situation. Acting now will only create more disorder.
 
 ---
 
@@ -178,7 +178,7 @@ Lúc này rối rắm, chưa gặp quý nhân. Hai bên giao tranh, thị phi kh
 **Ý Nghĩa Mở Rộng:**
 • Quẻ này mô tả giai đoạn bối rối và xung đột khi sự thật bị che khuất. Như gương bụi không thể phản chiếu rõ ràng, tình huống thiếu sự sáng tỏ.
 • Bạn có thể bị vu oan hoặc hiểu lầm, và phân biệt đúng sai cực kỳ khó khăn. Người khác không thể thấy ý định thực sự của bạn hoặc sự thật.
-• Sự bối rối tinh thần được chỉ ra—suy nghĩ của bạn rối như tơ vò. Hãy chờ đợi quý nhân xuất hiện để giúp làm sáng tỏ tình huống. Hành động bây giờ chỉ tạo thêm hỗn loạn.
+• Sự bối rối tinh thần được chỉ ra - suy nghĩ của bạn rối như tơ vò. Hãy chờ đợi quý nhân xuất hiện để giúp làm sáng tỏ tình huống. Hành động bây giờ chỉ tạo thêm hỗn loạn.
 
 ---
 
@@ -197,10 +197,10 @@ Generally, one should adapt to circumstances as they arise,
 Why climb trees to catch fish?
 
 **Interpretation:**
-Borrowing power and relying on influence—matters cannot yet be affirmed or denied. Adapt to circumstances; only then can you hold your ground.
+Borrowing power and relying on influence - matters cannot yet be affirmed or denied. Adapt to circumstances; only then can you hold your ground.
 
 **Extended Interpretation:**
-• This fortune cautions against relying too heavily on borrowed power or connections. What seems like solid support may be partially illusory—only half real.
+• This fortune cautions against relying too heavily on borrowed power or connections. What seems like solid support may be partially illusory - only half real.
 • Flexibility and adaptability are essential. Rather than rigidly following a single plan, be prepared to change course based on actual circumstances as they develop.
 • The idiom "climbing trees to catch fish" warns against pursuing goals through completely inappropriate means. Make sure your methods match your objectives.
 
@@ -220,7 +220,7 @@ Cần chi leo cây đi bắt cá.
 Mượn quyền cậy thế, việc chưa thể định. Gặp cơ ứng biến, mới được giữ vững.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này cảnh báo về việc dựa quá nhiều vào quyền lực hoặc mối quan hệ vay mượn. Những gì có vẻ là hỗ trợ vững chắc có thể một phần là ảo—chỉ nửa thật.
+• Quẻ này cảnh báo về việc dựa quá nhiều vào quyền lực hoặc mối quan hệ vay mượn. Những gì có vẻ là hỗ trợ vững chắc có thể một phần là ảo - chỉ nửa thật.
 • Sự linh hoạt và khả năng thích ứng là thiết yếu. Thay vì cứng nhắc theo một kế hoạch duy nhất, hãy sẵn sàng thay đổi hướng đi dựa trên hoàn cảnh thực tế khi chúng phát triển.
 • Thành ngữ "leo cây bắt cá" cảnh báo về việc theo đuổi mục tiêu bằng phương tiện hoàn toàn không phù hợp. Hãy đảm bảo phương pháp của bạn phù hợp với mục tiêu.
 
@@ -235,13 +235,13 @@ STICK #56
 Middle Fortune (Neutral / Mixed)
 
 **Fortune Poem:**
-Fortune comes to lean upon—good to pursue plans,
+Fortune comes to lean upon - good to pursue plans,
 But when fate has no time for it, also let it rest.
-Favor and disgrace, glory and decay—all are predetermined,
+Favor and disgrace, glory and decay - all are predetermined,
 Why use schemes in dangerous places?
 
 **Interpretation:**
-Glory and decay, gain and loss—their portions are already fixed. Do not seek excessively; it truly depends on fate.
+Glory and decay, gain and loss - their portions are already fixed. Do not seek excessively; it truly depends on fate.
 
 **Extended Interpretation:**
 • This fortune teaches acceptance of fate's role in outcomes. While planning and effort have their place, some things are predetermined and cannot be forced.
@@ -279,13 +279,13 @@ STICK #57
 Upper Fortune (Good / Auspicious)
 
 **Fortune Poem:**
-Husband plows, wife weaves—profitable are fields and silkworms,
+Husband plows, wife weaves - profitable are fields and silkworms,
 Taking a good spouse, furthermore a son is born.
-Divining lawsuits, divining wealth—all bring profit,
+Divining lawsuits, divining wealth - all bring profit,
 A noble helper takes your hand, free to go east or south.
 
 **Interpretation:**
-Noble helpers bring stable livelihood; things are precious when timed right. Divining lawsuits, divining wealth—what matter is not profitable?
+Noble helpers bring stable livelihood; things are precious when timed right. Divining lawsuits, divining wealth - what matter is not profitable?
 
 **Extended Interpretation:**
 • This is an excellent fortune for family life, work, and prosperity. The image of husband and wife working together harmoniously represents domestic happiness and economic stability.
@@ -323,13 +323,13 @@ STICK #58
 Middle Fortune (Neutral / Mixed)
 
 **Fortune Poem:**
-Wealth scattered—not heaven or ghosts can make it lose,
+Wealth scattered - not heaven or ghosts can make it lose,
 Sweet wine gained in abundance, how much is stored in surplus?
 In recent years, the edicts' messages have all been unfavorable,
-The result—how will it be?
+The result - how will it be?
 
 **Interpretation:**
-In one's conduct in the world, one should focus on virtue. All reliance on sedan chairs and luxury—what benefit is there in later regret?
+In one's conduct in the world, one should focus on virtue. All reliance on sedan chairs and luxury - what benefit is there in later regret?
 
 **Extended Interpretation:**
 • This fortune warns about the fleeting nature of material wealth and the importance of cultivating virtue over riches. Wealth can be scattered by one's own actions, not just by external forces.
@@ -373,10 +373,10 @@ From now on, noble helpers will exert strength to support,
 Coming together, water joins.
 
 **Interpretation:**
-Touching obstacles everywhere brings confusion; where things join brings support. Metal and water together—their use then begins.
+Touching obstacles everywhere brings confusion; where things join brings support. Metal and water together - their use then begins.
 
 **Extended Interpretation:**
-• This fortune describes a current state of confusion where every direction seems blocked—like an animal trapped by fences wherever it turns. You may feel lost and directionless.
+• This fortune describes a current state of confusion where every direction seems blocked - like an animal trapped by fences wherever it turns. You may feel lost and directionless.
 • Help is coming through noble benefactors who will provide the support you need. The union of complementary forces (metal and water in Five Elements theory) will create new possibilities.
 • The key is finding the right partnerships and combinations. Alone you are stuck, but with proper alliances, obstacles will be overcome.
 
@@ -396,7 +396,7 @@ Quý nhân từ đây ra sức nâng đỡ,
 Chạm đâu cũng mê, hợp đâu cũng nâng đỡ. Kim với thủy đồng, công dụng mới bắt đầu.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này mô tả trạng thái bối rối hiện tại khi mọi hướng đều có vẻ bị chặn—như con vật bị mắc kẹt bởi hàng rào dù quay đâu. Bạn có thể cảm thấy lạc lõng và không định hướng.
+• Quẻ này mô tả trạng thái bối rối hiện tại khi mọi hướng đều có vẻ bị chặn - như con vật bị mắc kẹt bởi hàng rào dù quay đâu. Bạn có thể cảm thấy lạc lõng và không định hướng.
 • Sự giúp đỡ đang đến qua những quý nhân sẽ cung cấp sự hỗ trợ bạn cần. Sự kết hợp của các lực lượng bổ sung (kim và thủy trong Ngũ Hành) sẽ tạo ra khả năng mới.
 • Chìa khóa là tìm được quan hệ đối tác và sự kết hợp phù hợp. Một mình bạn bị mắc kẹt, nhưng với liên minh đúng đắn, trở ngại sẽ được vượt qua.
 
@@ -420,7 +420,7 @@ Naturally at dawn comes the report.
 Much hardship is seen; all matters have not yet been encountered. If you meet the eighth month, wealth and treasure will prosper smoothly.
 
 **Extended Interpretation:**
-• This fortune indicates a period of constant activity and struggle—like a horse that cannot rest its hooves. You are working hard but facing many obstacles and dangers along the way.
+• This fortune indicates a period of constant activity and struggle - like a horse that cannot rest its hooves. You are working hard but facing many obstacles and dangers along the way.
 • However, relief is promised. The imagery of the dragon's cry and returning pearl suggests that something valuable you've been seeking will finally come back to you.
 • The eighth month (autumn) is specifically auspicious. If you can persevere through current difficulties, prosperity awaits when that time comes.
 
@@ -440,7 +440,7 @@ Tự nhiên sáng sớm báo tin.
 Nhiều thấy gian nan, phàm sự chưa gặp. Nếu gặp tháng tám, tài bảo hanh thông.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này cho thấy giai đoạn hoạt động liên tục và tranh đấu—như ngựa không thể nghỉ vó. Bạn đang làm việc chăm chỉ nhưng đối mặt với nhiều trở ngại và nguy hiểm trên đường.
+• Quẻ này cho thấy giai đoạn hoạt động liên tục và tranh đấu - như ngựa không thể nghỉ vó. Bạn đang làm việc chăm chỉ nhưng đối mặt với nhiều trở ngại và nguy hiểm trên đường.
 • Tuy nhiên, sự giải thoát được hứa hẹn. Hình ảnh tiếng rồng kêu và ngọc châu trở về gợi ý rằng điều quý giá bạn đang tìm kiếm cuối cùng sẽ quay về với bạn.
 • Tháng tám (mùa thu) đặc biệt may mắn. Nếu bạn có thể kiên trì vượt qua khó khăn hiện tại, sự thịnh vượng đang chờ đợi khi thời điểm đó đến.
 

@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Output files (large binary files - generated on demand)
+output/
+
+# Source images (large binary files)
+source_images/

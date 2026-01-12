@@ -103,7 +103,7 @@ Previous OCR attempts failed due to **rushing through images**. When reading 100
 
 ## Progress Tracker
 
-**Status:** Phase 1 COMPLETE - Ready for Phase 2 (HTML Generation)
+**Status:** PROJECT COMPLETE - All phases finished
 
 ### Phase 1: OCR + Translation (100 sticks total, 10 sticks per batch):
 - ✅ Batch 01 (Sticks 1-10) - COMPLETE
@@ -116,6 +116,18 @@ Previous OCR attempts failed due to **rushing through images**. When reading 100
 - ✅ Batch 08 (Sticks 71-80) - COMPLETE
 - ✅ Batch 09 (Sticks 81-90) - COMPLETE
 - ✅ Batch 10 (Sticks 91-100) - COMPLETE
+
+### Phase 2: HTML Generation - COMPLETE
+- ✅ 100 English/Vietnamese HTML files generated (`output/htmls/stick_001.html` to `stick_100.html`)
+- ✅ 100 Chinese HTML files generated (`output/htmls/stick_001_chinese.html` to `stick_100_chinese.html`)
+
+### Phase 3: PDF Conversion - COMPLETE
+- ✅ 100 English/Vietnamese PDFs generated (`output/pdfs/stick_001.pdf` to `stick_100.pdf`)
+- ✅ 100 Chinese PDFs generated (`output/pdfs/stick_001_chinese.pdf` to `stick_100_chinese.pdf`)
+
+### Phase 4: PDF Merging - COMPLETE
+- ✅ `output/Mazu_Fortune_Sticks_Complete.pdf` (180MB - English/Vietnamese)
+- ✅ `output/Mazu_Fortune_Sticks_Chinese_Complete.pdf` (4.8MB - Chinese)
 
 ### Errors & Lessons Learned:
 1. **DO NOT RUSH** - Previous OCR had ~40-50% error rate from rushing
@@ -320,24 +332,23 @@ STICK #[NUMBER]
 - Translated 100 sticks in batches of 10
 - Output: 20 files (10 OCR + 10 translation files) in `translations/` folder
 
-**📋 Phase 2 - HTML Generation (READY)**
+**✅ Phase 2 - HTML Generation (COMPLETE)**
 - Convert markdown translations to individual HTML files
 - Use templates in `templates/` folder
 - Run: `python3 scripts/generate_html.py --batch 1` (or `--all` for all batches)
-- Output: 200 HTML files (100 English/Vietnamese + 100 Chinese)
-- **Scripts ready:** `generate_html.py` tested and working
+- Output: 200 HTML files (100 English/Vietnamese + 100 Chinese) in `output/htmls/`
 
-**📋 Phase 3 - PDF Conversion (READY)**
+**✅ Phase 3 - PDF Conversion (COMPLETE)**
 - Convert HTML to PDF using Chrome headless
 - Run: `./scripts/convert_html_to_pdf.sh --from 1 --to 100` (English/Vietnamese)
 - Run: `./scripts/convert_chinese_html_to_pdf.sh --from 1 --to 100` (Chinese)
-- **CRITICAL:** Chinese script uses `--virtual-time-budget=10000` for Google Fonts loading
-- Output: 200 individual PDF files
+- **CRITICAL:** Both scripts use `--virtual-time-budget=10000` for Google Fonts loading
+- Output: 200 individual PDF files in `output/pdfs/`
 
-**📋 Phase 4 - PDF Merging (READY)**
+**✅ Phase 4 - PDF Merging (COMPLETE)**
 - Merge individual PDFs into complete collections
 - Run: `./scripts/merge_pdfs.sh`
-- Output: 2 merged PDFs (English/Vietnamese + Chinese)
+- Output: 2 merged PDFs in `output/` folder
 - Requires: Ghostscript (`brew install ghostscript`)
 
 ---
@@ -405,13 +416,67 @@ Requires: `brew install ghostscript`
 
 ---
 
-## Begin Phase 1
+## Issues & Resolutions Log
 
-**Start with Batch 01 (Sticks 1-10):**
+### Issue 1: PDF Output Different from HTML Preview
+**Problem:** The generated PDFs looked visually different from the HTML files viewed in browser.
 
-1. Read each source image `source_images/001.jpg` through `source_images/010.jpg`
-2. **TAKE YOUR TIME** - read each image carefully
-3. Extract Chinese text following the column-reading instructions above
-4. Create `ocr_batch_01_sticks_001-010.md`
-5. Create `batch_01_sticks_001-010.md` with translations
-6. Present to user and WAIT for confirmation before Batch 02
+**Root Cause:** The CSS template had different padding values for screen and print media:
+- Screen: `padding: 36px 56px`
+- Print: `padding: 24px 60px`
+
+**Resolution:** Changed screen padding to match print padding (`padding: 24px 60px`) in `templates/design_template.html`. This ensures HTML preview matches PDF output exactly.
+
+**Lesson Learned:** When designing for print, keep `@media screen` and `@media print` CSS values consistent for layout properties (padding, margins, dimensions).
+
+---
+
+### Issue 2: Google Fonts Not Loading in PDF
+**Problem:** Chinese PDFs rendered with only decorative frame but no text content (~17KB instead of ~300KB).
+
+**Root Cause:** Chrome headless mode was generating PDF before Google Fonts (Noto Serif TC) finished loading.
+
+**Resolution:** Added `--virtual-time-budget=10000` flag to Chrome commands in both:
+- `scripts/convert_html_to_pdf.sh`
+- `scripts/convert_chinese_html_to_pdf.sh`
+
+This gives Chrome 10 seconds to load external fonts before generating PDF.
+
+**Lesson Learned:** Always include `--virtual-time-budget` when using external fonts (Google Fonts, etc.) in headless PDF generation.
+
+---
+
+### Issue 3: Vietnamese Text Appears Tighter Than English
+**Observation:** In stick 76 and others, Vietnamese extended interpretation appears visually tighter than English.
+
+**Analysis:** This is NOT a CSS issue - both columns use identical styling (`line-height: 1.5`, `text-align: justify`).
+
+**Explanation:**
+- Vietnamese words are typically shorter than English equivalents
+- `text-align: justify` distributes whitespace based on word length
+- Shorter words = less inter-word spacing = denser appearance
+- Vietnamese diacritical marks also affect visual perception
+
+**Resolution:** No code change needed. This is expected behavior with justified text across different languages. Could change to `text-align: left` if uniform spacing is preferred, but justified alignment was kept for aesthetic reasons.
+
+---
+
+### Issue 4: HTML Files Not Found During Conversion
+**Problem:** PDF conversion script couldn't find HTML files.
+
+**Root Cause:** Script's `INPUT_DIR` was set to `output` but HTML files were in `output/htmls`.
+
+**Resolution:** Updated `INPUT_DIR` in `scripts/convert_html_to_pdf.sh` to use `${PROJECT_ROOT}/output/htmls`.
+
+---
+
+## Final Output Summary
+
+| Output | Count | Location |
+|--------|-------|----------|
+| HTML (English/Vietnamese) | 100 | `output/htmls/stick_XXX.html` |
+| HTML (Chinese) | 100 | `output/htmls/stick_XXX_chinese.html` |
+| PDF (English/Vietnamese) | 100 | `output/pdfs/stick_XXX.pdf` |
+| PDF (Chinese) | 100 | `output/pdfs/stick_XXX_chinese.pdf` |
+| Merged PDF (English/Vietnamese) | 1 | `output/Mazu_Fortune_Sticks_Complete.pdf` (180MB) |
+| Merged PDF (Chinese) | 1 | `output/Mazu_Fortune_Sticks_Chinese_Complete.pdf` (4.8MB) |

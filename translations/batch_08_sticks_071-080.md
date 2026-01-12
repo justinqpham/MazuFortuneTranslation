@@ -16,8 +16,8 @@ Lower Fortune (Caution Advised)
 
 **Fortune Poem:**
 Feet treading the yellow locust tree, a warrior most rare,
-Talent is high but the road contested—appreciators of music are few.
-One battle on the sandy field—no news returns,
+Talent is high but the road contested - appreciators of music are few.
+One battle on the sandy field - no news returns,
 Withered and worn in the western wind, the wild goose retreats in flight.
 
 **Interpretation:**
@@ -25,7 +25,7 @@ Wisdom is broad but talent is sparse; advance an inch, retreat a foot. Wishing t
 
 **Extended Interpretation:**
 • This fortune describes someone with high ambitions but insufficient means to achieve them. Like a warrior seeking recognition but finding no appreciative audience, your talents may go unnoticed.
-• Progress is extremely difficult—for every small step forward, you fall back. The conditions are not yet right for the success you seek.
+• Progress is extremely difficult - for every small step forward, you fall back. The conditions are not yet right for the success you seek.
 • The wild goose retreating before the western wind symbolizes forced retreat. This is not the time to push forward; wait until you have developed the "wings" needed for flight.
 
 ---
@@ -45,7 +45,7 @@ Trí rộng tài thưa, tiến tấc lui thước. Muốn lên mây xanh, chưa 
 
 **Ý Nghĩa Mở Rộng:**
 • Quẻ này mô tả người có hoài bão cao nhưng thiếu phương tiện để đạt được. Như chiến binh tìm kiếm sự công nhận nhưng không tìm được khán giả đánh giá cao, tài năng của bạn có thể không được chú ý.
-• Tiến bộ cực kỳ khó khăn—mỗi bước nhỏ tiến về phía trước, bạn lùi lại. Điều kiện chưa phù hợp cho thành công bạn tìm kiếm.
+• Tiến bộ cực kỳ khó khăn - mỗi bước nhỏ tiến về phía trước, bạn lùi lại. Điều kiện chưa phù hợp cho thành công bạn tìm kiếm.
 • Chim nhạn rút lui trước gió tây tượng trưng cho sự rút lui bắt buộc. Đây không phải lúc để đẩy mạnh; hãy chờ đợi cho đến khi bạn phát triển "đôi cánh" cần thiết để bay.
 
 ---
@@ -59,7 +59,7 @@ STICK #72
 Upper Fortune (Good / Auspicious)
 
 **Fortune Poem:**
-Gain and loss, glory and decay—their source is in heaven,
+Gain and loss, glory and decay - their source is in heaven,
 Finding joy in heaven and knowing one's fate brings peace.
 If you grasp this meaning and add your plans and hopes,
 Gold and silk will fill your chests, goods will fill your ships.
@@ -103,13 +103,13 @@ STICK #73
 Upper Fortune (Good / Auspicious)
 
 **Fortune Poem:**
-An arrow strikes—in the south, calls ring out, able to carry silk letters,
+An arrow strikes - in the south, calls ring out, able to carry silk letters,
 Then one knows the person is in a remote corner of Han.
 Looking back, not yet meeting true news,
-After the winter candles, before spring—just let it be for now.
+After the winter candles, before spring - just let it be for now.
 
 **Interpretation:**
-Divining messages not yet verified, only then will news be seen. Winter candles depart, spring comes—all matters sought will be auspicious.
+Divining messages not yet verified, only then will news be seen. Winter candles depart, spring comes - all matters sought will be auspicious.
 
 **Extended Interpretation:**
 • This fortune alludes to the famous story of Su Wu, who sent messages via wild geese while held captive. Like Su Wu who was eventually rescued, you will receive the news or help you've been waiting for.
@@ -197,12 +197,12 @@ Better to weave a net and go to the edge of the deep,
 And naturally golden-scaled fish will meet your needs.
 
 **Interpretation:**
-Guarding a stump waiting for a rabbit, facing the deep envying fish—better to make changes, for there are other needs to meet.
+Guarding a stump waiting for a rabbit, facing the deep envying fish - better to make changes, for there are other needs to meet.
 
 **Extended Interpretation:**
 • This fortune quotes the famous proverb: "Better to go home and weave a net than to stand by the pond longing for fish." Envying others' success without taking practical action wastes your energy.
 • Stop wishing and start doing. Passive waiting (like "guarding a stump waiting for rabbits") will not bring results. Active preparation and proper tools are required for success.
-• The "golden-scaled fish" represents your goals—they are achievable, but only through practical effort and the right approach. Change your methods to get real results.
+• The "golden-scaled fish" represents your goals - they are achievable, but only through practical effort and the right approach. Change your methods to get real results.
 
 ---
 
@@ -222,7 +222,7 @@ Tự có cá vàng ứng sở cần.
 **Ý Nghĩa Mở Rộng:**
 • Quẻ này trích dẫn câu ngạn ngữ nổi tiếng: "Thà về nhà đan lưới còn hơn đứng bên ao thèm cá." Ghen tị với thành công của người khác mà không hành động thực tế sẽ lãng phí năng lượng của bạn.
 • Hãy ngừng mơ ước và bắt đầu hành động. Chờ đợi thụ động (như "ôm cây đợi thỏ") sẽ không mang lại kết quả. Sự chuẩn bị chủ động và công cụ phù hợp là cần thiết để thành công.
-• "Cá vảy vàng" đại diện cho mục tiêu của bạn—chúng có thể đạt được, nhưng chỉ thông qua nỗ lực thực tế và cách tiếp cận đúng đắn. Thay đổi phương pháp để có kết quả thực sự.
+• "Cá vảy vàng" đại diện cho mục tiêu của bạn - chúng có thể đạt được, nhưng chỉ thông qua nỗ lực thực tế và cách tiếp cận đúng đắn. Thay đổi phương pháp để có kết quả thực sự.
 
 ---
 
@@ -279,7 +279,7 @@ STICK #77
 Lower Fortune (Caution Advised)
 
 **Fortune Poem:**
-Right and wrong, fame and profit—bitterly striving to manage,
+Right and wrong, fame and profit - bitterly striving to manage,
 Exhausted in power, entirely like a hawk on its perch.
 Who can escape the red dust and still have ambition,
 Relying on becoming a person who unties the colored ribbons?
@@ -288,9 +288,9 @@ Relying on becoming a person who unties the colored ribbons?
 Seeking profit has not succeeded; gossiping tongues will eventually be freed. If you ask about smooth success, wait directly until the autumn moon.
 
 **Extended Interpretation:**
-• This fortune describes exhausting yourself in worldly pursuits of fame and profit. Like a hawk tied to its perch, you have power but cannot use it freely—you are trapped by circumstances.
+• This fortune describes exhausting yourself in worldly pursuits of fame and profit. Like a hawk tied to its perch, you have power but cannot use it freely - you are trapped by circumstances.
 • The imagery suggests burnout from competitive striving. The "red dust" of worldly affairs is wearing you down, yet true escape remains elusive.
-• Relief is promised but delayed—wait until autumn (the "autumn moon") for conditions to improve. Until then, manage your energy and avoid overextending yourself.
+• Relief is promised but delayed - wait until autumn (the "autumn moon") for conditions to improve. Until then, manage your energy and avoid overextending yourself.
 
 ---
 
@@ -308,9 +308,9 @@ Cậy làm người cởi lụa màu.
 Cầu lợi chưa được, miệng lưỡi rốt cuộc thoát. Nếu hỏi hanh thông, đợi thẳng đến trăng thu.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này mô tả việc kiệt sức trong theo đuổi danh lợi trần thế. Như ưng bị buộc trên giá đậu, bạn có sức mạnh nhưng không thể dùng tự do—bạn bị mắc kẹt bởi hoàn cảnh.
+• Quẻ này mô tả việc kiệt sức trong theo đuổi danh lợi trần thế. Như ưng bị buộc trên giá đậu, bạn có sức mạnh nhưng không thể dùng tự do - bạn bị mắc kẹt bởi hoàn cảnh.
 • Hình ảnh gợi ý sự kiệt sức từ nỗ lực cạnh tranh. "Hồng trần" của việc thế gian đang làm bạn mòn mỏi, nhưng sự thoát thân thực sự vẫn khó nắm bắt.
-• Sự giải thoát được hứa hẹn nhưng bị trì hoãn—hãy chờ đến mùa thu ("trăng thu") để điều kiện cải thiện. Cho đến lúc đó, hãy quản lý năng lượng và tránh kéo căng bản thân quá mức.
+• Sự giải thoát được hứa hẹn nhưng bị trì hoãn - hãy chờ đến mùa thu ("trăng thu") để điều kiện cải thiện. Cho đến lúc đó, hãy quản lý năng lượng và tránh kéo căng bản thân quá mức.
 
 ---
 
@@ -324,15 +324,15 @@ Lower Fortune (Caution Advised)
 
 **Fortune Poem:**
 Enemy families seize opportunities to open the door of disaster,
-Both sides guard—victory and defeat are yet to be determined.
+Both sides guard - victory and defeat are yet to be determined.
 Furthermore, hidden arrows fly at each other,
 Secretly lay your schemes to avoid troubling yourself.
 
 **Interpretation:**
-People have hopes and plans—absolutely do not spy or covet. Urgently make preparations; only then can disaster be avoided.
+People have hopes and plans - absolutely do not spy or covet. Urgently make preparations; only then can disaster be avoided.
 
 **Extended Interpretation:**
-• This fortune warns of active enemies or competitors who are waiting for opportunities to strike. The "door of disaster" has already been opened—conflict is underway or imminent.
+• This fortune warns of active enemies or competitors who are waiting for opportunities to strike. The "door of disaster" has already been opened - conflict is underway or imminent.
 • Both sides are evenly matched, and the outcome is uncertain. Hidden attacks ("dark arrows") are being exchanged, so visible confrontation is not the only threat.
 • The advice is defensive: focus on protecting yourself rather than attacking. Prepare countermeasures, stay alert, and do not give enemies openings to exploit.
 
@@ -352,7 +352,7 @@ Bí mật đặt mưu tránh tự phiền.
 Người có mưu vọng, tuyệt đối đừng rình rập. Gấp rút phòng bị, mới có thể tránh họa đến.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này cảnh báo về kẻ thù hoặc đối thủ đang chờ đợi cơ hội để tấn công. "Cửa tai họa" đã mở—xung đột đang diễn ra hoặc sắp xảy ra.
+• Quẻ này cảnh báo về kẻ thù hoặc đối thủ đang chờ đợi cơ hội để tấn công. "Cửa tai họa" đã mở - xung đột đang diễn ra hoặc sắp xảy ra.
 • Hai bên ngang sức, và kết quả không chắc chắn. Các cuộc tấn công ẩn giấu ("tên ngầm") đang được trao đổi, nên đối đầu trực tiếp không phải là mối đe dọa duy nhất.
 • Lời khuyên là phòng thủ: tập trung vào bảo vệ bản thân thay vì tấn công. Chuẩn bị biện pháp đối phó, luôn cảnh giác, và đừng cho kẻ thù cơ hội để lợi dụng.
 
@@ -367,8 +367,8 @@ STICK #79
 Middle Fortune (Neutral / Mixed)
 
 **Fortune Poem:**
-Climbing vines, picking through, selecting—bitterly exhausting the spirit,
-Scraping away dirt, polishing to shine—only then is the truth seen.
+Climbing vines, picking through, selecting - bitterly exhausting the spirit,
+Scraping away dirt, polishing to shine - only then is the truth seen.
 Worldly matters should not be expected to come easily,
 From ancient times, wealth and honor have lain in diligent toil.
 
@@ -376,7 +376,7 @@ From ancient times, wealth and honor have lain in diligent toil.
 In stone there is jade; in sand there is gold. One must labor with heart and strength; only then will one meet a kindred spirit.
 
 **Extended Interpretation:**
-• This fortune emphasizes that success requires genuine effort—there are no shortcuts. Like finding jade in stone or gold in sand, valuable things must be discovered through patient, diligent work.
+• This fortune emphasizes that success requires genuine effort - there are no shortcuts. Like finding jade in stone or gold in sand, valuable things must be discovered through patient, diligent work.
 • The process of "scraping dirt and polishing" represents the hard work needed to reveal your true worth. Don't expect easy victories or quick recognition.
 • The promise is clear: those who work hard will eventually find success and recognition ("meet a kindred spirit"). The path is difficult but the destination is assured for the diligent.
 
@@ -396,7 +396,7 @@ Xưa nay phú quý ở siêng năng.
 Trong đá có ngọc, trong cát có vàng. Phải lao tâm sức, mới gặp tri âm.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này nhấn mạnh rằng thành công đòi hỏi nỗ lực chân thành—không có đường tắt. Như tìm ngọc trong đá hay vàng trong cát, những thứ có giá trị phải được khám phá qua công việc kiên nhẫn, siêng năng.
+• Quẻ này nhấn mạnh rằng thành công đòi hỏi nỗ lực chân thành - không có đường tắt. Như tìm ngọc trong đá hay vàng trong cát, những thứ có giá trị phải được khám phá qua công việc kiên nhẫn, siêng năng.
 • Quá trình "cạo bẩn mài sáng" đại diện cho công sức cần thiết để bộc lộ giá trị thực sự của bạn. Đừng mong đợi chiến thắng dễ dàng hoặc sự công nhận nhanh chóng.
 • Lời hứa rõ ràng: những ai làm việc chăm chỉ cuối cùng sẽ tìm thấy thành công và sự công nhận ("gặp tri âm"). Con đường khó khăn nhưng đích đến được đảm bảo cho người siêng năng.
 
@@ -411,7 +411,7 @@ STICK #80
 Lower Fortune (Caution Advised)
 
 **Fortune Poem:**
-Flying soul, flying spirit—departing in great haste,
+Flying soul, flying spirit - departing in great haste,
 Moreover, family matters at the gate are inauspicious.
 Flying, it is autumn light as the sun nears dusk,
 Wild geese pass over the frost-covered rapids.
@@ -421,7 +421,7 @@ The world's attitudes are hot and cold; all matters are inauspicious. Husband an
 
 **Extended Interpretation:**
 • This is a serious warning fortune about family dissolution and separation. The imagery of departing souls and spirits suggests severe disruption to household harmony and possibly health crises.
-• The "hot and cold" nature of worldly relationships is emphasized—those you rely on may turn against you, and family members who should be close are harming each other.
+• The "hot and cold" nature of worldly relationships is emphasized - those you rely on may turn against you, and family members who should be close are harming each other.
 • The autumn imagery of geese flying over frost speaks of endings, departures, and the coldness of broken relationships. Urgent attention to family matters is required to prevent permanent damage.
 
 ---
@@ -441,7 +441,7 @@ Thế thái nóng lạnh, việc đều chẳng lành. Vợ chồng ly biệt, c
 
 **Ý Nghĩa Mở Rộng:**
 • Đây là quẻ cảnh báo nghiêm trọng về sự tan rã và chia ly gia đình. Hình ảnh hồn phách bay đi gợi ý sự xáo trộn nghiêm trọng đến hòa thuận gia đình và có thể là khủng hoảng sức khỏe.
-• Bản chất "nóng lạnh" của các mối quan hệ thế gian được nhấn mạnh—những người bạn dựa vào có thể quay lưng lại với bạn, và những thành viên gia đình lẽ ra gần gũi đang làm hại nhau.
+• Bản chất "nóng lạnh" của các mối quan hệ thế gian được nhấn mạnh - những người bạn dựa vào có thể quay lưng lại với bạn, và những thành viên gia đình lẽ ra gần gũi đang làm hại nhau.
 • Hình ảnh mùa thu của nhạn bay qua sương giá nói về những kết thúc, ra đi, và sự lạnh lẽo của các mối quan hệ đổ vỡ. Cần chú ý khẩn cấp đến các vấn đề gia đình để ngăn ngừa thiệt hại vĩnh viễn.
 
 ---

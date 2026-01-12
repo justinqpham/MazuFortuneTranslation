@@ -18,7 +18,7 @@ Naturally your name rises and spreads wide.
 When timing aligns, changes are favorable. The path to profit and fame shines bright, glory awaits you.
 
 **Extended Interpretation:**
-• This is an excellent time for new ventures and partnerships—be open to meeting new people who can advance your goals.
+• This is an excellent time for new ventures and partnerships - be open to meeting new people who can advance your goals.
 • Your reputation is on the rise; act with integrity and your good name will spread naturally.
 • Adaptability is your greatest asset now; those who flow with changing circumstances will prosper.
 
@@ -38,7 +38,7 @@ Tự nhiên danh tiếng bay xa rộng.
 Thuận thời mà hành, nên thay đổi, đường lợi danh sáng, vinh quang chờ đón.
 
 **Ý Nghĩa Mở Rộng:**
-• Đây là thời điểm tuyệt vời cho việc khởi nghiệp và hợp tác—hãy cởi mở với những người mới có thể giúp bạn tiến xa.
+• Đây là thời điểm tuyệt vời cho việc khởi nghiệp và hợp tác - hãy cởi mở với những người mới có thể giúp bạn tiến xa.
 • Danh tiếng của bạn đang lên; hành động chính trực và tiếng tốt sẽ tự nhiên lan rộng.
 • Khả năng thích ứng là tài sản lớn nhất của bạn lúc này; ai thuận theo hoàn cảnh sẽ thịnh vượng.
 
@@ -62,7 +62,7 @@ Use this opportunity to rise from the dust.
 Finding the right place at the right time, all things flourish harmoniously. The gentleman will be useful, gaining fame and profit.
 
 **Extended Interpretation:**
-• The environment is ripe for growth and success—like fish in warm waters, conditions favor your endeavors.
+• The environment is ripe for growth and success - like fish in warm waters, conditions favor your endeavors.
 • This is your chance to break free from difficult circumstances and elevate your position.
 • Act decisively when you recognize favorable conditions; don't hesitate when opportunity appears.
 
@@ -82,7 +82,7 @@ Nhân cơ hội tốt thoát bụi trần.
 Được đất được thời, vạn vật tươi đẹp, quân tử hữu dụng, danh cao lợi thành.
 
 **Ý Nghĩa Mở Rộng:**
-• Môi trường đã chín muồi cho sự tăng trưởng và thành công—như cá trong nước ấm, điều kiện thuận lợi cho việc của bạn.
+• Môi trường đã chín muồi cho sự tăng trưởng và thành công - như cá trong nước ấm, điều kiện thuận lợi cho việc của bạn.
 • Đây là cơ hội để bạn thoát khỏi hoàn cảnh khó khăn và nâng cao vị thế.
 • Hành động quyết đoán khi nhận ra điều kiện thuận lợi; đừng do dự khi cơ hội xuất hiện.
 
@@ -97,16 +97,16 @@ STICK #93
 Upper Fortune (Good / Auspicious)
 
 **Fortune Poem:**
-Out with the old, in with the new—wonders appear,
+Out with the old, in with the new - wonders appear,
 The withered tree before the courtyard sprouts new branches.
 When you encounter the Rat year upon the Ox,
-Noble guests will beckon—have no doubt.
+Noble guests will beckon - have no doubt.
 
 **Interpretation:**
 Revolutionary renewal, from extreme hardship comes great fortune. In the months of Zi and Chou, achievements and fame will be accomplished.
 
 **Extended Interpretation:**
-• Transformation is at hand—what seemed dead or hopeless will revive with new vitality.
+• Transformation is at hand - what seemed dead or hopeless will revive with new vitality.
 • Pay attention to timing: the Rat-Ox period (late winter months) brings special opportunities.
 • Trust invitations from respected people; partnerships formed now lead to success.
 
@@ -126,7 +126,7 @@ Quý khách mời gọi chớ nghi ngờ.
 Cách cũ đổi mới, bĩ cực thái lai, tháng Tý Sửu, công danh thành tựu.
 
 **Ý Nghĩa Mở Rộng:**
-• Sự chuyển đổi đang đến—những gì tưởng như đã chết hoặc vô vọng sẽ hồi sinh với sức sống mới.
+• Sự chuyển đổi đang đến - những gì tưởng như đã chết hoặc vô vọng sẽ hồi sinh với sức sống mới.
 • Chú ý thời điểm: giai đoạn Tý-Sửu (tháng cuối đông) mang đến cơ hội đặc biệt.
 • Tin tưởng lời mời từ người đáng kính; quan hệ hợp tác hình thành lúc này dẫn đến thành công.
 
@@ -141,7 +141,7 @@ STICK #94
 Lower Fortune (Caution Advised)
 
 **Fortune Poem:**
-The swallow at peace, the crane's poison—pitiable indeed,
+The swallow at peace, the crane's poison - pitiable indeed,
 Falsely harboring resentment creates disaster and calamity.
 In your home there remains one who can be freed,
 Yet the woman's disaster is hard to resolve peacefully.
@@ -195,7 +195,7 @@ The door locks not from wind, the dwelling wastes away. Family bonds are damaged
 
 **Extended Interpretation:**
 • Isolation and loneliness pervade your situation; connections are weakened or broken.
-• Your home environment may be deteriorating—physical repairs or spiritual cleansing needed.
+• Your home environment may be deteriorating - physical repairs or spiritual cleansing needed.
 • Health concerns are serious and slow to improve; seek proper treatment and remain patient.
 
 ---
@@ -215,7 +215,7 @@ Cửa khóa không gió, nhà cửa hư hao, cốt nhục tổn thương, bệnh
 
 **Ý Nghĩa Mở Rộng:**
 • Sự cô lập và cô đơn bao trùm hoàn cảnh của bạn; các mối quan hệ bị suy yếu hoặc đứt gãy.
-• Môi trường nhà ở có thể đang xuống cấp—cần sửa chữa vật chất hoặc thanh tẩy tâm linh.
+• Môi trường nhà ở có thể đang xuống cấp - cần sửa chữa vật chất hoặc thanh tẩy tâm linh.
 • Vấn đề sức khỏe nghiêm trọng và chậm cải thiện; tìm kiếm điều trị đúng cách và kiên nhẫn.
 
 ---
@@ -229,7 +229,7 @@ STICK #96
 Middle Fortune (Neutral / Mixed)
 
 **Fortune Poem:**
-Fate is cold, timing unfavorable—don't force your pursuits,
+Fate is cold, timing unfavorable - don't force your pursuits,
 If you can find peaceful shelter, enjoy your leisure.
 When you meet the heavenly person who speaks,
 There's a different livelihood, not in ceasing.
@@ -283,7 +283,7 @@ Fortune will arrive, your destiny gradually improves. In the months of Yin and M
 
 **Extended Interpretation:**
 • Honesty and integrity are being tested; be careful with your words as they carry weight.
-• Like the careful historian, measure your speech—what you say will be judged and remembered.
+• Like the careful historian, measure your speech - what you say will be judged and remembered.
 • Spring months (Tiger and Rabbit) bring improvement; use this waiting period to learn and prepare.
 
 ---
@@ -303,7 +303,7 @@ Thời vận sẽ đến, mệnh dần hanh thông, tháng Dần Mão, sẽ th�
 
 **Ý Nghĩa Mở Rộng:**
 • Sự trung thực và chính trực đang bị thử thách; cẩn thận với lời nói vì chúng có sức nặng.
-• Như nhà sử học cẩn trọng, cân nhắc lời nói—những gì bạn nói sẽ bị phán xét và ghi nhớ.
+• Như nhà sử học cẩn trọng, cân nhắc lời nói - những gì bạn nói sẽ bị phán xét và ghi nhớ.
 • Tháng mùa xuân (Dần Mão) mang đến cải thiện; dùng thời gian chờ đợi này để học hỏi và chuẩn bị.
 
 ---
@@ -371,7 +371,7 @@ Diligent effort brings good fortune, seek wealth with harmony. After long hardsh
 
 **Extended Interpretation:**
 • Your years of hard work have not been wasted; recognition and reward are coming.
-• Inner peace matters more than outward success—cultivate contentment with your achievements.
+• Inner peace matters more than outward success - cultivate contentment with your achievements.
 • After prolonged difficulty, recovery and restoration arrive; patience through adversity pays off.
 
 ---
@@ -391,7 +391,7 @@ Siêng năng được cát, cầu tài nên hòa, lâu khốn được tỉnh, b
 
 **Ý Nghĩa Mở Rộng:**
 • Những năm tháng làm việc chăm chỉ của bạn không phí hoài; sự công nhận và phần thưởng đang đến.
-• Bình an nội tâm quan trọng hơn thành công bên ngoài—hãy nuôi dưỡng sự hài lòng với thành tựu của mình.
+• Bình an nội tâm quan trọng hơn thành công bên ngoài - hãy nuôi dưỡng sự hài lòng với thành tựu của mình.
 • Sau khó khăn kéo dài, sự phục hồi và khôi phục sẽ đến; kiên nhẫn qua nghịch cảnh sẽ được đền đáp.
 
 ---
@@ -405,7 +405,7 @@ STICK #100
 Upper Fortune (Good / Auspicious)
 
 **Fortune Poem:**
-Seeking fame, seeking profit—both are fitting,
+Seeking fame, seeking profit - both are fitting,
 Waiting by the tree stump for rabbits is not too late.
 If the sail catches favorable winds at the right time,
 In the end, you'll return with a full cargo.
@@ -414,9 +414,9 @@ In the end, you'll return with a full cargo.
 Seek office and gain profit, seek wealth and gain benefit. News returns promptly, boats travel fully loaded.
 
 **Extended Interpretation:**
-• This is an auspicious fortune for both career advancement and financial gain—pursue both confidently.
+• This is an auspicious fortune for both career advancement and financial gain - pursue both confidently.
 • Sometimes patient waiting brings opportunity to you; not all success requires aggressive pursuit.
-• Your endeavors will reach successful completion—expect to return from ventures with abundant rewards.
+• Your endeavors will reach successful completion - expect to return from ventures with abundant rewards.
 
 ---
 
@@ -434,9 +434,9 @@ Cuối cùng trở về đầy khoang hàng.
 Cầu quan được lợi, cầu tài lợi ích, hỏi tin liền về, thuyền đi đầy tải.
 
 **Ý Nghĩa Mở Rộng:**
-• Đây là quẻ cát lợi cho cả thăng tiến sự nghiệp và thu hoạch tài chính—hãy tự tin theo đuổi cả hai.
+• Đây là quẻ cát lợi cho cả thăng tiến sự nghiệp và thu hoạch tài chính - hãy tự tin theo đuổi cả hai.
 • Đôi khi kiên nhẫn chờ đợi mang cơ hội đến với bạn; không phải mọi thành công đều cần sự theo đuổi quyết liệt.
-• Công việc của bạn sẽ đạt đến thành công viên mãn—mong đợi trở về từ các dự án với phần thưởng dồi dào.
+• Công việc của bạn sẽ đạt đến thành công viên mãn - mong đợi trở về từ các dự án với phần thưởng dồi dào.
 
 ---
 
@@ -446,11 +446,11 @@ Cầu quan được lợi, cầu tài lợi ích, hỏi tin liền về, thuyề
 • All sticks in this batch were OCR'd from clear source images.
 
 **Translation Notes:**
-• Stick #93: "鼠年牛頭上" refers to the Rat (子) and Ox (丑) zodiac months/years—translated as "Rat-Ox period" which covers late winter months
-• Stick #94: "燕安鶴毒" is a classical idiom about hidden danger within comfort—the swallow rests peacefully unaware of the crane's poison
-• Stick #97: "春秋直筆" refers to Confucius's honest historical record in the Spring and Autumn Annals—translated to preserve the metaphor of careful, honest writing
+• Stick #93: "鼠年牛頭上" refers to the Rat (子) and Ox (丑) zodiac months/years - translated as "Rat-Ox period" which covers late winter months
+• Stick #94: "燕安鶴毒" is a classical idiom about hidden danger within comfort - the swallow rests peacefully unaware of the crane's poison
+• Stick #97: "春秋直筆" refers to Confucius's honest historical record in the Spring and Autumn Annals - translated to preserve the metaphor of careful, honest writing
 • Stick #97: "游夏" (Youxia) refers to Ziyou and Zixia, two disciples of Confucius known for their literary talents
-• Stick #100: "守株待兔" is the famous idiom about waiting by a tree stump for rabbits—here used positively to suggest patient waiting can succeed
+• Stick #100: "守株待兔" is the famous idiom about waiting by a tree stump for rabbits - here used positively to suggest patient waiting can succeed
 
 **Confidence Levels:**
 • HIGH: All sticks #91-100 (clear images, grammatically and semantically coherent)

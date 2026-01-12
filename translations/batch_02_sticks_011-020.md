@@ -11,7 +11,7 @@ Lower Fortune (Caution Advised)
 **Fortune Poem:**
 The old rustic transmits news, but matters remain unfinished,
 The host first laughs, then sighs "haha" in vain.
-The strings of the qin and books are broken—glue cannot mend them,
+The strings of the qin and books are broken - glue cannot mend them,
 The mirror is covered in deep dust, the stone unpolished.
 
 **Interpretation:**
@@ -62,7 +62,7 @@ Those who hide short tongues bring fresh wounds.
 When two stalks contend, there will surely be damage. Close your mouth and hide your tongue; let others speak of short and long.
 
 **Extended Interpretation:**
-• This fortune strongly warns against arguments and verbal conflicts. Engaging in disputes will only lead to mutual harm—no one truly wins.
+• This fortune strongly warns against arguments and verbal conflicts. Engaging in disputes will only lead to mutual harm - no one truly wins.
 • Practice restraint and silence. Even when provoked or when others speak ill of you, the wisest response is to hold your tongue and not retaliate.
 • Gossip and slander are dangers now. Be careful what you say and to whom, as words spoken carelessly can cause lasting damage to relationships and reputation.
 
@@ -82,7 +82,7 @@ Giấu lưỡi ngắn dài mới tổn thương.
 Hai cọng tranh nhau, ắt có tổn thương. Ngậm miệng giấu lưỡi, người nói ngắn dài.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này cảnh báo mạnh mẽ về tranh cãi và xung đột lời nói. Tham gia tranh chấp chỉ dẫn đến tổn thương lẫn nhau—không ai thực sự thắng.
+• Quẻ này cảnh báo mạnh mẽ về tranh cãi và xung đột lời nói. Tham gia tranh chấp chỉ dẫn đến tổn thương lẫn nhau - không ai thực sự thắng.
 • Hãy thực hành kiềm chế và im lặng. Ngay cả khi bị khiêu khích hoặc người khác nói xấu bạn, phản ứng khôn ngoan nhất là giữ miệng và không trả đũa.
 • Tin đồn và vu khống là nguy hiểm lúc này. Hãy cẩn thận với những gì bạn nói và nói với ai, vì lời nói bất cẩn có thể gây tổn hại lâu dài cho các mối quan hệ và danh tiếng.
 
@@ -99,7 +99,7 @@ Upper Fortune (Good / Auspicious)
 **Fortune Poem:**
 The general's heroic reputation is truly without equal,
 Laughing and talking, he pacifies the barbarians while seated in the proper realm.
-North, south, east, and west—all submit in awe,
+North, south, east, and west - all submit in awe,
 Without exerting troops or horses, they surrender of their own accord.
 
 **Interpretation:**
@@ -107,7 +107,7 @@ If one has ambition, fame and fortune will follow one's wishes. Enemies surrende
 
 **Extended Interpretation:**
 • This is an excellent fortune indicating natural authority and effortless success. Like a great general whose reputation alone causes enemies to surrender, your mere presence and character will win the day.
-• You possess inherent advantages that others recognize and respect. There is no need for aggressive action or forceful measures—your natural qualities will achieve your goals.
+• You possess inherent advantages that others recognize and respect. There is no need for aggressive action or forceful measures - your natural qualities will achieve your goals.
 • This is a time of great influence. Others will follow your lead willingly, and obstacles will clear themselves without struggle. Act with quiet confidence.
 
 ---
@@ -127,7 +127,7 @@ Người có chí lớn, danh lợi như ý. Không đánh mà hàng, không gi�
 
 **Ý Nghĩa Mở Rộng:**
 • Đây là quẻ rất tốt, báo hiệu uy quyền tự nhiên và thành công không cần gắng sức. Như vị tướng vĩ đại mà chỉ cần danh tiếng đã khiến kẻ thù đầu hàng, sự hiện diện và phẩm chất của bạn sẽ chiến thắng.
-• Bạn sở hữu những lợi thế bẩm sinh mà người khác nhận ra và tôn trọng. Không cần hành động hung hăng hay biện pháp mạnh—phẩm chất tự nhiên của bạn sẽ đạt được mục tiêu.
+• Bạn sở hữu những lợi thế bẩm sinh mà người khác nhận ra và tôn trọng. Không cần hành động hung hăng hay biện pháp mạnh - phẩm chất tự nhiên của bạn sẽ đạt được mục tiêu.
 • Đây là thời kỳ có ảnh hưởng lớn. Người khác sẽ tự nguyện đi theo sự dẫn dắt của bạn, và trở ngại sẽ tự tan biến không cần đấu tranh. Hãy hành động với sự tự tin điềm tĩnh.
 
 ---
@@ -147,7 +147,7 @@ Better to return home early to your village well,
 The waves and river god wish to bring you harm.
 
 **Interpretation:**
-Fleeting fame and profit—do not greedily pursue them. If greed knows no satisfaction, the family will meet with disaster.
+Fleeting fame and profit - do not greedily pursue them. If greed knows no satisfaction, the family will meet with disaster.
 
 **Extended Interpretation:**
 • This fortune warns strongly against greed and overreaching ambition. Pursuing wealth or status at any cost will lead to ruin rather than success.
@@ -191,11 +191,11 @@ People know to go north, south, east, and west,
 Wherever you arrive, you shall surely meet a noble helper.
 
 **Interpretation:**
-When fortune's time arrives, luck flourishes. The constrained and bent find release. East, west, south, north—everywhere you meet with spring.
+When fortune's time arrives, luck flourishes. The constrained and bent find release. East, west, south, north - everywhere you meet with spring.
 
 **Extended Interpretation:**
 • This is an excellent fortune indicating a time of renewal and awakening. Like spring arriving after winter, opportunities are blooming and new life is emerging in your affairs.
-• Movement and travel are highly favored now. Wherever you go, you will find helpful people and favorable circumstances. Do not stay still—venture out.
+• Movement and travel are highly favored now. Wherever you go, you will find helpful people and favorable circumstances. Do not stay still - venture out.
 • This is a time of liberation from previous constraints. Whatever has been holding you back will release its grip, allowing you to stretch and grow into new possibilities.
 
 ---
@@ -215,7 +215,7 @@ Thời đến vận hanh, cùng khốn được duỗi. Đông tây nam bắc, �
 
 **Ý Nghĩa Mở Rộng:**
 • Đây là quẻ rất tốt, báo hiệu thời kỳ đổi mới và thức tỉnh. Như xuân về sau đông, cơ hội đang nở rộ và sức sống mới đang xuất hiện trong công việc của bạn.
-• Di chuyển và du lịch rất thuận lợi lúc này. Đi đâu bạn cũng sẽ gặp người giúp đỡ và hoàn cảnh thuận lợi. Đừng đứng yên—hãy mạo hiểm ra ngoài.
+• Di chuyển và du lịch rất thuận lợi lúc này. Đi đâu bạn cũng sẽ gặp người giúp đỡ và hoàn cảnh thuận lợi. Đừng đứng yên - hãy mạo hiểm ra ngoài.
 • Đây là thời kỳ giải phóng khỏi những ràng buộc trước đây. Bất cứ điều gì đang kìm hãm bạn sẽ buông tay, cho phép bạn vươn lên và phát triển vào những khả năng mới.
 
 ---
@@ -276,13 +276,13 @@ Middle Fortune (Neutral / Mixed)
 Mulberry branches have no leaves, the grain seedlings wither,
 Spring comes, about to sprout, but things have not yet revived.
 If you want refined and strict learning properly taught,
-One night of wind and frost—the lake becomes calm water.
+One night of wind and frost - the lake becomes calm water.
 
 **Interpretation:**
 For all that you seek, success depends on proper speech. Human affairs are merely play; Heaven's principle will become clear of itself.
 
 **Extended Interpretation:**
-• This fortune indicates a period of dormancy before revival. Like seedlings that have not yet sprouted despite spring's arrival, your efforts have not yet borne fruit—but the potential remains.
+• This fortune indicates a period of dormancy before revival. Like seedlings that have not yet sprouted despite spring's arrival, your efforts have not yet borne fruit - but the potential remains.
 • Patience and proper method are essential. Success will come through disciplined, correct approach rather than hasty action. Take time to learn and prepare properly.
 • After turbulence comes calm. The image of a lake becoming still after frost suggests that current difficulties will settle, revealing clarity beneath the surface.
 
@@ -302,7 +302,7 @@ Một đêm sương gió hồ nước phẳng.
 Phàm có cầu xin, quý ở lời thành. Nhân sự đùa chơi, thiên lý tự minh.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này chỉ ra thời kỳ ngủ đông trước khi hồi sinh. Như mầm cây chưa mọc dù xuân đã về, nỗ lực của bạn chưa kết trái—nhưng tiềm năng vẫn còn.
+• Quẻ này chỉ ra thời kỳ ngủ đông trước khi hồi sinh. Như mầm cây chưa mọc dù xuân đã về, nỗ lực của bạn chưa kết trái - nhưng tiềm năng vẫn còn.
 • Kiên nhẫn và phương pháp đúng đắn là thiết yếu. Thành công sẽ đến qua cách tiếp cận có kỷ luật, đúng đắn thay vì hành động vội vàng. Hãy dành thời gian học hỏi và chuẩn bị chu đáo.
 • Sau sóng gió là bình lặng. Hình ảnh hồ nước lặng yên sau sương giá gợi ý rằng khó khăn hiện tại sẽ lắng xuống, hé lộ sự rõ ràng bên dưới.
 
@@ -328,7 +328,7 @@ Seeking wealth will not succeed; official troubles have not retreated. Illness h
 **Extended Interpretation:**
 • This fortune indicates a time of confusion and inability to see clearly. Like being drunk and unable to wake, you may be unaware of important realities around you.
 • This is not a favorable time for financial ventures or career moves. Obstacles from authorities or official matters may cause problems that have not yet resolved.
-• Health concerns persist and require attention. The overall energy is murky—wait for clearer times before making important decisions.
+• Health concerns persist and require attention. The overall energy is murky - wait for clearer times before making important decisions.
 
 ---
 
@@ -348,7 +348,7 @@ Cầu tài không được, quan tai chưa lui. Bệnh tật chưa lành, trăm 
 **Ý Nghĩa Mở Rộng:**
 • Quẻ này chỉ ra thời kỳ hoang mang và không thể nhìn rõ. Như say rượu không thể tỉnh, bạn có thể không nhận ra những thực tế quan trọng xung quanh.
 • Đây không phải thời điểm thuận lợi cho việc tài chính hay bước tiến sự nghiệp. Trở ngại từ chính quyền hoặc công việc chính thức có thể gây ra vấn đề chưa được giải quyết.
-• Lo ngại về sức khỏe vẫn tồn tại và cần được chú ý. Năng lượng tổng thể đang mờ mịt—hãy chờ đợi thời điểm rõ ràng hơn trước khi đưa ra quyết định quan trọng.
+• Lo ngại về sức khỏe vẫn tồn tại và cần được chú ý. Năng lượng tổng thể đang mờ mịt - hãy chờ đợi thời điểm rõ ràng hơn trước khi đưa ra quyết định quan trọng.
 
 ---
 
@@ -367,7 +367,7 @@ Within the purple mushroom palace, auspicious clouds gather,
 Seeking an heir in the pepper chamber, you shall obtain a fine son.
 
 **Interpretation:**
-Official matters are peaceful; private matters bring joy. Divining for pregnancy—it will be a boy. Divining for lawsuits—you have right on your side.
+Official matters are peaceful; private matters bring joy. Divining for pregnancy - it will be a boy. Divining for lawsuits - you have right on your side.
 
 **Extended Interpretation:**
 • This is an excellent fortune indicating harmony at the highest levels. Like the emperor holding court with all in proper order, your affairs are aligned with cosmic propriety.
@@ -406,7 +406,7 @@ Middle Fortune (Neutral / Mixed)
 
 **Fortune Poem:**
 Numerous and confused, the roads north and south fork into many paths,
-Suddenly the scene grows dim—what can be done?
+Suddenly the scene grows dim - what can be done?
 This very self meets a noble person who points the way,
 Only then rejoicing to escape the dusty net.
 
@@ -415,7 +415,7 @@ Like a person in darkness, seeing nothing at all, suddenly meeting a noble helpe
 
 **Extended Interpretation:**
 • This fortune describes moving from confusion to clarity through outside help. When you feel lost among many confusing choices, a wise guide will appear to show you the way.
-• Do not try to navigate alone when you are lost. Be open to receiving guidance from others—a mentor, advisor, or unexpected helper will prove invaluable.
+• Do not try to navigate alone when you are lost. Be open to receiving guidance from others - a mentor, advisor, or unexpected helper will prove invaluable.
 • Relief and escape from entanglements are coming. The "dusty net" of worldly troubles will release you once you accept proper guidance.
 
 ---
@@ -435,7 +435,7 @@ Như người tối tăm, không thấy gì cả. Bỗng gặp quý nhân, hoạ
 
 **Ý Nghĩa Mở Rộng:**
 • Quẻ này mô tả việc chuyển từ hoang mang sang rõ ràng nhờ sự giúp đỡ bên ngoài. Khi bạn cảm thấy lạc lõng giữa nhiều lựa chọn rối rắm, một người hướng dẫn khôn ngoan sẽ xuất hiện chỉ đường.
-• Đừng cố tự mình tìm đường khi đang lạc. Hãy cởi mở đón nhận sự chỉ dẫn từ người khác—một người cố vấn, người hướng dẫn, hoặc người giúp đỡ bất ngờ sẽ vô cùng quý giá.
+• Đừng cố tự mình tìm đường khi đang lạc. Hãy cởi mở đón nhận sự chỉ dẫn từ người khác - một người cố vấn, người hướng dẫn, hoặc người giúp đỡ bất ngờ sẽ vô cùng quý giá.
 • Sự giải thoát và thoát khỏi những vướng mắc đang đến. "Lưới bụi trần" của phiền não thế gian sẽ buông tha bạn một khi bạn chấp nhận sự hướng dẫn đúng đắn.
 
 ---

@@ -21,8 +21,8 @@
 
     body {
       font-family: 'EB Garamond', Georgia, serif;
-      font-size: 12px;
-      line-height: 1.4;
+      font-size: 11pt;
+      line-height: 1.5;
       color: #000;
       background: #f5f5f5;
     }
@@ -31,7 +31,7 @@
       width: 8.5in;
       height: 11in;
       background: white;
-      padding: 24px 60px;
+      padding: 36px 56px;
       margin: 0 auto;
       display: flex;
       flex-direction: column;
@@ -112,42 +112,50 @@
 
     .column-english {
       justify-content: flex-end;
-      padding-bottom: 52px;
+      padding-bottom: 10px;
     }
 
     .column-vietnamese {
       justify-content: flex-start;
-      padding-top: 20px;
+      padding-top: 10px;
     }
 
     /* === FORTUNE RATING === */
     .fortune-rating {
-      margin-bottom: 16px;
+      margin-bottom: 20px;
     }
 
     .fortune-rating-title {
-      font-size: 16px;
+      font-size: 22px;
       font-weight: 700;
+      letter-spacing: 0.5px;
     }
 
     .fortune-rating-subtitle {
-      font-size: 12px;
-      font-weight: 700;
+      font-size: 14px;
+      font-weight: 500;
+      color: #333;
+      margin-top: 2px;
     }
 
     /* === SECTIONS === */
     .section {
-      margin-bottom: 4px;
+      margin-bottom: 14px;
     }
 
     .section-title {
-      font-size: 14px;
+      font-size: 13px;
       font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 6px;
+      color: #222;
     }
 
     .section-content {
-      font-size: 12px;
+      font-size: 11pt;
       font-weight: 400;
+      line-height: 1.5;
     }
 
     /* Fortune Poem */
@@ -156,28 +164,33 @@
     }
 
     .poem-title {
-      font-size: 14px;
+      font-size: 13px;
       font-weight: 700;
-      text-align: right;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 4px;
+      color: #222;
     }
 
     .poem-stanza {
       margin-bottom: 8px;
       white-space: pre-line;
-      text-align: justify;
-      text-align-last: right;
+      text-align: left;
+      line-height: 1.5;
     }
 
     /* Interpretation section with bullets */
     .interpretation-list {
       list-style: disc;
-      padding-left: 16px;
+      padding-left: 18px;
+      margin-top: 4px;
     }
 
     .interpretation-list li {
-      margin-bottom: 4px;
+      margin-bottom: 8px;
       text-align: justify;
       text-align-last: left;
+      line-height: 1.5;
     }
 
     /* === FOOTER === */
@@ -233,7 +246,7 @@
     <div class="header-group">
       <div class="header-title">Mazu Fortune Reading</div>
       <div class="header-title-vn">Linh Quẻ Thiên Hậu Thánh Mẫu</div>
-      <div class="stick-number">1</div>
+      <div class="stick-number">84</div>
     </div>
   </header>
 
@@ -242,31 +255,31 @@
     <!-- ENGLISH COLUMN -->
     <div class="column column-english">
       <div class="fortune-rating">
-        <div class="fortune-rating-title">Middle Fortune</div>
-        <div class="fortune-rating-subtitle">(Neutral / Mixed)</div>
+        <div class="fortune-rating-title">Lower Fortune</div>
+        <div class="fortune-rating-subtitle">(Caution Advised)</div>
       </div>
 
       <div class="section">
         <div class="poem-title">Fortune Poem</div>
         <div class="poem section-content">
-          <div class="poem-stanza">A thousand-foot pagoda rises in the jeweled tower city,
-Standing still atop the highest peak.
-People of this age should not treat it as ordinary—
-Without being an immortal, one cannot comprehend the climb.</div>
+          <div class="poem-stanza">A dog's bark - how can it harm the brightness of sun and moon?
+Iron harm, the bit - people's lips and tongue-swords all become empty.
+The dog - why harm itself, in the end without benefit?
+Coming to eat one's own body.</div>
         </div>
       </div>
 
       <div class="section">
         <div class="section-title">Interpretation</div>
-        <div class="section-content">Blessings come without seeking; wealth comes without arrogance. Know when you are full, know contentment, and all misfortunes will quietly vanish.</div>
+        <div class="section-content">Slanderous words are not yet heard; do not believe glib tongues. Those who poison others are not yet poisoned; heaven's principle will naturally become clear.</div>
       </div>
 
       <div class="section">
         <div class="section-title">Extended Interpretation</div>
         <ul class="interpretation-list section-content">
-          <li>This fortune speaks to the value of contentment and humility. Like standing atop a sacred pagoda, you have already achieved a position worth appreciating—recognize what you have.</li>
-          <li>Success requires patience and inner cultivation. Do not rush or force outcomes; the path to the summit is gradual and requires wisdom beyond ordinary understanding.</li>
-          <li>Guard against greed and overreaching. By maintaining a humble heart and being satisfied with your current blessings, you naturally ward off potential disasters.</li>
+          <li>This fortune addresses slander and malicious speech. Like a dog barking at the sun and moon, those who speak against you cannot truly dim your brightness - their attacks are futile.</li>
+          <li>However, the warning is also about self-destruction: those who engage in harmful speech and actions ultimately harm themselves. "Eating one's own body" represents the self-destructive nature of malice.</li>
+          <li>Do not engage with slanderers or respond to baseless accusations. Heaven's justice will prevail, and the truth will become clear without your intervention.</li>
         </ul>
       </div>
     </div>
@@ -274,31 +287,31 @@ Without being an immortal, one cannot comprehend the climb.</div>
     <!-- VIETNAMESE COLUMN -->
     <div class="column column-vietnamese">
       <div class="fortune-rating">
-        <div class="fortune-rating-title">Trung Quẻ</div>
-        <div class="fortune-rating-subtitle">(Bình thường / Trung bình)</div>
+        <div class="fortune-rating-title">Hạ Quẻ</div>
+        <div class="fortune-rating-subtitle">(Cần cẩn thận)</div>
       </div>
 
       <div class="section">
         <div class="poem-title">Bài Thơ Quẻ</div>
         <div class="poem section-content">
-          <div class="poem-stanza">Tháp phù đồ ngàn thước thành bảo tháp,
-Trên đỉnh cao ngất đứng lặng yên.
-Người đời chớ xem như thường có,
-Chẳng phải thần tiên khó hiểu đường lên.</div>
+          <div class="poem-stanza">Chó sủa sao hại được trăng mặt trời sáng?
+Sắt hại hàm thiếc, người môi lưỡi kiếm đều thành không.
+Chó sao tự hại, rốt cuộc vô ích?
+Đến tự ăn thân.</div>
         </div>
       </div>
 
       <div class="section">
         <div class="section-title">Giải Quẻ</div>
-        <div class="section-content">Phúc không cầu mà được, giàu không kiêu ngạo. Biết đủ biết vừa, mọi họa tự tiêu tan.</div>
+        <div class="section-content">Lời dèm chưa nghe, miệng lanh chớ tin. Kẻ độc người chưa độc, lẽ trời tự sáng.</div>
       </div>
 
       <div class="section">
         <div class="section-title">Ý Nghĩa Mở Rộng</div>
         <ul class="interpretation-list section-content">
-          <li>Quẻ này nói về giá trị của sự tri túc và khiêm nhường. Như đứng trên đỉnh tháp thiêng, bạn đã đạt được vị trí đáng trân trọng—hãy nhận ra những gì mình có.</li>
-          <li>Thành công đòi hỏi kiên nhẫn và tu dưỡng nội tâm. Đừng vội vàng hay ép buộc kết quả; con đường lên đỉnh cao cần trí tuệ vượt xa tầm thường.</li>
-          <li>Hãy đề phòng tham lam và vượt quá giới hạn. Giữ tâm khiêm tốn và hài lòng với phúc lành hiện tại, tai họa tự nhiên tránh xa.</li>
+          <li>Quẻ này đề cập đến vu khống và lời nói ác ý. Như chó sủa trăng mặt trời, những ai nói chống lại bạn không thể thực sự làm mờ sự sáng của bạn - các cuộc tấn công của họ là vô ích.</li>
+          <li>Tuy nhiên, cảnh báo cũng về sự tự hủy hoại: những ai tham gia lời nói và hành động có hại cuối cùng tự hại chính mình. "Ăn thân mình" đại diện cho bản chất tự hủy hoại của ác ý.</li>
+          <li>Đừng tham gia với những kẻ vu khống hoặc phản hồi các cáo buộc vô căn cứ. Công lý của trời sẽ thắng, và sự thật sẽ trở nên rõ ràng mà không cần bạn can thiệp.</li>
         </ul>
       </div>
     </div>

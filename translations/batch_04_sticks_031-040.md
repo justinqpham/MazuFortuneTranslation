@@ -148,7 +148,7 @@ Middle Fortune (Neutral / Mixed)
 
 **Fortune Poem:**
 In action and rest, facing heaven, one must know the timing,
-The old crane—what sky cannot it fly to?
+The old crane - what sky cannot it fly to?
 When the way aligns, act; when it doesn't, stop.
 This body exists for the sake of rice and grain to fatten.
 
@@ -194,7 +194,7 @@ Lower Fortune (Caution Advised)
 Through tearful eyes we look at each other, bearing separation,
 Where autumn winds arise, one cannot overcome the sorrow.
 Abandoning home, drifting like duckweed, deep in idle matters,
-Wealth scattered, people lost—all at once.
+Wealth scattered, people lost - all at once.
 
 **Interpretation:**
 Father goes south, son goes north; wealth scatters, people depart. Urgently do good deeds; you may avoid disaster and danger.
@@ -235,7 +235,7 @@ STICK #36
 Lower Fortune (Caution Advised)
 
 **Fortune Poem:**
-Official courts and private gates—how strange indeed!
+Official courts and private gates - how strange indeed!
 Two people meet and naturally suspect and guess at each other.
 From spring joining to summer, groundless caution is needed,
 Even more, guard against what comes from within smiles.
@@ -244,7 +244,7 @@ Even more, guard against what comes from within smiles.
 Official matters involve emptiness; disaster arises from within the walls. Spring and summer bring delays; autumn and winter bring good fortune.
 
 **Extended Interpretation:**
-• This fortune warns of deception and hidden enemies, particularly in official or business dealings. People you meet may harbor ulterior motives—trust cautiously.
+• This fortune warns of deception and hidden enemies, particularly in official or business dealings. People you meet may harbor ulterior motives - trust cautiously.
 • The phrase "disaster arises from within the walls" (禍起蕭牆) warns that threats come from those close to you, not strangers. Beware of betrayal from within your own circle.
 • The timing advice is clear: spring and summer bring difficulties and delays, but conditions improve in autumn and winter. Postpone important decisions if possible.
 
@@ -264,7 +264,7 @@ Càng phải đề phòng cười trong miệng đến.
 Quan chủ trống không, họa từ trong tường. Xuân hạ chậm trễ, thu đông cát tường.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này cảnh báo về sự lừa dối và kẻ thù ẩn giấu, đặc biệt trong các giao dịch công việc hoặc kinh doanh. Người bạn gặp có thể có động cơ kín đáo—hãy tin tưởng một cách thận trọng.
+• Quẻ này cảnh báo về sự lừa dối và kẻ thù ẩn giấu, đặc biệt trong các giao dịch công việc hoặc kinh doanh. Người bạn gặp có thể có động cơ kín đáo - hãy tin tưởng một cách thận trọng.
 • Câu "họa từ trong tường khởi" (禍起蕭牆) cảnh báo rằng mối đe dọa đến từ những người gần gũi, không phải người lạ. Cẩn thận với sự phản bội từ chính vòng tròn của bạn.
 • Lời khuyên về thời điểm rõ ràng: xuân hạ mang đến khó khăn và chậm trễ, nhưng điều kiện cải thiện vào thu đông. Hoãn các quyết định quan trọng nếu có thể.
 
@@ -279,7 +279,7 @@ STICK #37
 Lower Fortune (Caution Advised)
 
 **Fortune Poem:**
-Injustice upon injustice—how can one find relief?
+Injustice upon injustice - how can one find relief?
 Like a precious mirror buried in dust.
 Severe frost and accumulated snow, cold beyond measure,
 Spring arrives, yet one does not encounter spring.
@@ -334,7 +334,7 @@ Seeking wealth has not succeeded; marriage matters have not formed. When a noble
 **Extended Interpretation:**
 • This fortune describes a frustrating period where progress seems blocked despite your best efforts. The past year may have shown promise, but recent months have brought confusion and stagnation.
 • Financial goals and relationship matters are both hindered currently. Do not force outcomes; the timing is not right for breakthroughs in these areas.
-• The key to improvement lies in finding guidance—a mentor, advisor, or benefactor who can help clear your vision and show you the path forward. Seek such help actively.
+• The key to improvement lies in finding guidance - a mentor, advisor, or benefactor who can help clear your vision and show you the path forward. Seek such help actively.
 
 ---
 
@@ -354,7 +354,7 @@ Cầu tài chưa được, hôn sự chưa thành. Quý nhân chỉ ra, mới th
 **Ý Nghĩa Mở Rộng:**
 • Quẻ này mô tả giai đoạn bực bội khi tiến triển bị chặn dù bạn đã cố gắng hết sức. Năm qua có thể đã cho thấy triển vọng, nhưng những tháng gần đây mang đến bối rối và trì trệ.
 • Các mục tiêu tài chính và vấn đề quan hệ đều bị cản trở hiện tại. Đừng ép buộc kết quả; thời điểm chưa thích hợp cho bước đột phá trong các lĩnh vực này.
-• Chìa khóa để cải thiện nằm ở việc tìm kiếm hướng dẫn—một người cố vấn, tư vấn, hoặc quý nhân có thể giúp làm sáng tầm nhìn và chỉ cho bạn con đường phía trước. Hãy tích cực tìm kiếm sự giúp đỡ như vậy.
+• Chìa khóa để cải thiện nằm ở việc tìm kiếm hướng dẫn - một người cố vấn, tư vấn, hoặc quý nhân có thể giúp làm sáng tầm nhìn và chỉ cho bạn con đường phía trước. Hãy tích cực tìm kiếm sự giúp đỡ như vậy.
 
 ---
 
@@ -377,7 +377,7 @@ The sun rises from Fusang; on Double Yang Day, shadows scatter. Official lawsuit
 
 **Extended Interpretation:**
 • This is an excellent fortune symbolizing the triumph of light over darkness. Fusang is the mythical tree where the sun rises; its emergence signals a new dawn after a difficult period.
-• All negative influences—represented by frost and snow—will naturally melt away as positive energy grows stronger. Legal troubles, enemies, and obstacles will recede without your having to fight them directly.
+• All negative influences - represented by frost and snow - will naturally melt away as positive energy grows stronger. Legal troubles, enemies, and obstacles will recede without your having to fight them directly.
 • This is an auspicious time for new beginnings. The tide has turned in your favor; proceed with confidence in all matters, as circumstances now support your success.
 
 ---
@@ -397,7 +397,7 @@ Mặt trời mọc từ Phù Tang, ngày Trùng Dương bóng tan. Kiện tụng
 
 **Ý Nghĩa Mở Rộng:**
 • Đây là quẻ rất tốt tượng trưng cho chiến thắng của ánh sáng trước bóng tối. Phù Tang là cây thần thoại nơi mặt trời mọc; sự xuất hiện của nó báo hiệu bình minh mới sau giai đoạn khó khăn.
-• Tất cả ảnh hưởng tiêu cực—biểu hiện bằng sương giá và tuyết—sẽ tự nhiên tan chảy khi năng lượng tích cực mạnh lên. Rắc rối pháp lý, kẻ thù và trở ngại sẽ lui đi mà không cần bạn phải chiến đấu trực tiếp.
+• Tất cả ảnh hưởng tiêu cực - biểu hiện bằng sương giá và tuyết - sẽ tự nhiên tan chảy khi năng lượng tích cực mạnh lên. Rắc rối pháp lý, kẻ thù và trở ngại sẽ lui đi mà không cần bạn phải chiến đấu trực tiếp.
 • Đây là thời điểm tốt lành cho những khởi đầu mới. Vận đã xoay chiều có lợi cho bạn; hãy tự tin tiến hành mọi việc, vì hoàn cảnh giờ đây ủng hộ thành công của bạn.
 
 ---
@@ -417,11 +417,11 @@ When the time comes, winds prepare golden strength,
 Ten thousand miles by sail in but a moment's span.
 
 **Interpretation:**
-Winds rise and sails lift high; ten thousand miles in one bound. Wash your feet, board the ship—think not of worry.
+Winds rise and sails lift high; ten thousand miles in one bound. Wash your feet, board the ship - think not of worry.
 
 **Extended Interpretation:**
 • This is a highly auspicious fortune indicating swift and smooth progress. Like a ship catching favorable winds, you will cover great distances with ease once the timing aligns.
-• The imagery suggests travel, especially by water, will be fortunate. More broadly, any journey—physical, career, or spiritual—undertaken now will succeed beyond expectations.
+• The imagery suggests travel, especially by water, will be fortunate. More broadly, any journey - physical, career, or spiritual - undertaken now will succeed beyond expectations.
 • The advice to "wash your feet and board" without worry indicates that preparation time is over. Act decisively and trust that the winds will carry you where you need to go.
 
 ---
@@ -441,7 +441,7 @@ Gió nổi buồm cao, vạn dặm một bay. Rửa chân lên thuyền, chẳng
 
 **Ý Nghĩa Mở Rộng:**
 • Đây là quẻ rất tốt lành chỉ ra tiến triển nhanh chóng và suôn sẻ. Như thuyền bắt được gió thuận, bạn sẽ vượt khoảng cách lớn một cách dễ dàng khi thời điểm hội đủ.
-• Hình ảnh gợi ý du lịch, đặc biệt đường thủy, sẽ may mắn. Rộng hơn, bất kỳ hành trình nào—vật lý, sự nghiệp, hay tâm linh—thực hiện bây giờ sẽ thành công vượt mong đợi.
+• Hình ảnh gợi ý du lịch, đặc biệt đường thủy, sẽ may mắn. Rộng hơn, bất kỳ hành trình nào - vật lý, sự nghiệp, hay tâm linh - thực hiện bây giờ sẽ thành công vượt mong đợi.
 • Lời khuyên "rửa chân lên thuyền" không lo lắng cho thấy thời gian chuẩn bị đã qua. Hành động quyết đoán và tin tưởng rằng gió sẽ đưa bạn đến nơi cần đến.
 
 ---

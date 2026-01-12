@@ -15,7 +15,7 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
 CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-INPUT_DIR="${PROJECT_ROOT}/output"
+INPUT_DIR="${PROJECT_ROOT}/output/htmls"
 OUTPUT_DIR="${PROJECT_ROOT}/output/pdfs"
 
 # Parse arguments
@@ -91,12 +91,15 @@ for html_file in "${html_files[@]}"; do
         pdf_file="${OUTPUT_DIR}/${filename}.pdf"
         abs_html_path="$(cd "$(dirname "$html_file")" && pwd)/$(basename "$html_file")"
 
+        # CRITICAL: --virtual-time-budget=10000 gives Chrome 10 seconds
+        # to download Google Fonts before generating PDF
         "$CHROME" \
             --headless \
             --disable-gpu \
             --print-to-pdf="$pdf_file" \
             --print-to-pdf-no-header \
             --no-margins \
+            --virtual-time-budget=10000 \
             "file://${abs_html_path}" \
             2>/dev/null
 

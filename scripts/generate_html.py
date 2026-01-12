@@ -171,7 +171,7 @@ def parse_ocr_file(ocr_file_path):
 
         sticks.append({
             'num': stick_num,
-            'stick_num': f'第{number_to_chinese(stick_num)}籤',
+            'stick_num': f'第{number_to_chinese(stick_num)}籤 {stick_num}',
             'rating': rating,
             'poem': poem,
             'interpretation': interpretation

@@ -11,14 +11,14 @@ Middle Fortune (Neutral / Mixed)
 **Fortune Poem:**
 A thousand-foot pagoda rises in the jeweled tower city,
 Standing still atop the highest peak.
-People of this age should not treat it as ordinary—
+People of this age should not treat it as ordinary - 
 Without being an immortal, one cannot comprehend the climb.
 
 **Interpretation:**
 Blessings come without seeking; wealth comes without arrogance. Know when you are full, know contentment, and all misfortunes will quietly vanish.
 
 **Extended Interpretation:**
-• This fortune speaks to the value of contentment and humility. Like standing atop a sacred pagoda, you have already achieved a position worth appreciating—recognize what you have.
+• This fortune speaks to the value of contentment and humility. Like standing atop a sacred pagoda, you have already achieved a position worth appreciating - recognize what you have.
 • Success requires patience and inner cultivation. Do not rush or force outcomes; the path to the summit is gradual and requires wisdom beyond ordinary understanding.
 • Guard against greed and overreaching. By maintaining a humble heart and being satisfied with your current blessings, you naturally ward off potential disasters.
 
@@ -38,7 +38,7 @@ Chẳng phải thần tiên khó hiểu đường lên.
 Phúc không cầu mà được, giàu không kiêu ngạo. Biết đủ biết vừa, mọi họa tự tiêu tan.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này nói về giá trị của sự tri túc và khiêm nhường. Như đứng trên đỉnh tháp thiêng, bạn đã đạt được vị trí đáng trân trọng—hãy nhận ra những gì mình có.
+• Quẻ này nói về giá trị của sự tri túc và khiêm nhường. Như đứng trên đỉnh tháp thiêng, bạn đã đạt được vị trí đáng trân trọng - hãy nhận ra những gì mình có.
 • Thành công đòi hỏi kiên nhẫn và tu dưỡng nội tâm. Đừng vội vàng hay ép buộc kết quả; con đường lên đỉnh cao cần trí tuệ vượt xa tầm thường.
 • Hãy đề phòng tham lam và vượt quá giới hạn. Giữ tâm khiêm tốn và hài lòng với phúc lành hiện tại, tai họa tự nhiên tránh xa.
 
@@ -55,7 +55,7 @@ Upper Fortune (Good / Auspicious)
 **Fortune Poem:**
 In the autumn imperial exam, one battle soars across the sky,
 Going forth to present golden writings to the Emperor's foundation.
-This journey to the Golden Gate brings good news—
+This journey to the Golden Gate brings good news - 
 Departing in common cloth, returning in brocade robes.
 
 **Interpretation:**
@@ -98,7 +98,7 @@ Lower Fortune (Caution Advised)
 
 **Fortune Poem:**
 The garden full of peach and plum blossoms in full bloom,
-Pale white and deep red—all colors are fitting.
+Pale white and deep red - all colors are fitting.
 But why does the east wind seem so jealous?
 At dawn it comes to break off the highest branch.
 
@@ -142,7 +142,7 @@ Lower Fortune (Caution Advised)
 
 **Fortune Poem:**
 A hundred flowers in wind and rain, half in sorrow,
-All matters—let them pass and follow the flow.
+All matters - let them pass and follow the flow.
 Last night the lamp flower bloomed as a good omen,
 Yet in vain it only made me raise my eyebrows.
 
@@ -150,7 +150,7 @@ Yet in vain it only made me raise my eyebrows.
 The hexagram's main matter is half joy, half sorrow. The lamp flower signals good news, but eyebrows rise in vain.
 
 **Extended Interpretation:**
-• This fortune indicates mixed outcomes—some hope exists, but it may not materialize as expected. The "lamp flower" (a traditional omen of good news) suggests promising signs, but they may prove hollow.
+• This fortune indicates mixed outcomes - some hope exists, but it may not materialize as expected. The "lamp flower" (a traditional omen of good news) suggests promising signs, but they may prove hollow.
 • Do not get too excited about apparent good news or positive signs. Verify before celebrating. Surface appearances may be misleading.
 • Practice patience and acceptance. Rather than fighting against circumstances, flow with events while maintaining realistic expectations. Half-measures and partial successes are likely.
 
@@ -170,7 +170,7 @@ Uổng công chỉ khiến ta nhíu mày.
 Quẻ này chủ sự nửa vui nửa buồn. Hoa đèn báo tin vui, nhưng giãn mày cũng uổng.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này chỉ ra kết quả lẫn lộn—có hy vọng nhưng có thể không thành như mong đợi. "Hoa đèn" (điềm báo tin tốt theo truyền thống) cho thấy dấu hiệu hứa hẹn, nhưng có thể là hão huyền.
+• Quẻ này chỉ ra kết quả lẫn lộn - có hy vọng nhưng có thể không thành như mong đợi. "Hoa đèn" (điềm báo tin tốt theo truyền thống) cho thấy dấu hiệu hứa hẹn, nhưng có thể là hão huyền.
 • Đừng quá phấn khích với tin tốt hay dấu hiệu tích cực bề ngoài. Hãy xác minh trước khi ăn mừng. Bề ngoài có thể đánh lừa.
 • Hãy kiên nhẫn và chấp nhận. Thay vì chống lại hoàn cảnh, hãy thuận theo dòng chảy với kỳ vọng thực tế. Thành công một phần là điều có thể xảy ra.
 
@@ -194,7 +194,7 @@ How can it compete when others secretly draw their bows?
 To know the news, watch for strange omens at the borders. Only guard against hidden arrows; do not deceive yourself.
 
 **Extended Interpretation:**
-• This fortune speaks of noble ambitions meeting hidden obstacles. Like the crane seeking to soar, you have high aspirations—but beware of those who may secretly work against you.
+• This fortune speaks of noble ambitions meeting hidden obstacles. Like the crane seeking to soar, you have high aspirations - but beware of those who may secretly work against you.
 • Be vigilant about competitors or adversaries who operate in the shadows. Success requires not just talent and effort, but awareness of potential threats that may not be obvious.
 • Proceed with your plans, but maintain caution. Do not be naive about the challenges ahead. Gather intelligence and protect yourself from unexpected attacks.
 
@@ -214,7 +214,7 @@ Sao bằng người đang ngầm giương cung.
 Muốn biết tin tức, xem điềm lạ nơi biên giới. Chỉ phòng tên ngầm, chớ tự dối mình.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này nói về hoài bão cao cả gặp trở ngại ẩn giấu. Như con hạc muốn bay cao, bạn có chí lớn—nhưng hãy cẩn thận những kẻ ngầm chống lại bạn.
+• Quẻ này nói về hoài bão cao cả gặp trở ngại ẩn giấu. Như con hạc muốn bay cao, bạn có chí lớn - nhưng hãy cẩn thận những kẻ ngầm chống lại bạn.
 • Hãy cảnh giác với đối thủ hay kẻ địch hoạt động trong bóng tối. Thành công không chỉ cần tài năng và nỗ lực, mà còn cần nhận thức về mối đe dọa tiềm ẩn không rõ ràng.
 • Tiến hành kế hoạch nhưng duy trì thận trọng. Đừng ngây thơ về thử thách phía trước. Thu thập thông tin và bảo vệ bản thân khỏi những cuộc tấn công bất ngờ.
 
@@ -230,9 +230,9 @@ Upper Fortune (Good / Auspicious)
 
 **Fortune Poem:**
 Wind and cloud meet the tiger, asking about glory and splendor,
-The profitable path spreads fame—truly there are limits.
+The profitable path spreads fame - truly there are limits.
 Try asking: in the gambling tray, staking all on one throw,
-Calling out the dice, startling the table—the tray fills with flowers.
+Calling out the dice, startling the table - the tray fills with flowers.
 
 **Interpretation:**
 Wind and clouds converge; seize the moment to make changes. One throw of the golden tray brings sounds of acclaim.
@@ -326,7 +326,7 @@ Clever schemes turn to treachery, finding no rest.
 Tongues clash in argument; the household knows no peace. Seeking wealth fails; marriage will not succeed.
 
 **Extended Interpretation:**
-• This fortune strongly warns against legal disputes, arguments, and conflicts. Even if you feel justified, engaging in confrontation will bring no benefit—only prolonged strife.
+• This fortune strongly warns against legal disputes, arguments, and conflicts. Even if you feel justified, engaging in confrontation will bring no benefit - only prolonged strife.
 • Seek reconciliation rather than victory. The wise course is to make peace, even if it means compromising or letting go of grievances. Fighting will exhaust you without resolution.
 • This is not a favorable time for major decisions regarding finances, partnerships, or marriage. Wait until conflicts settle and clearer circumstances emerge.
 
@@ -346,7 +346,7 @@ Khôn khéo thành gian chẳng được nhàn.
 Miệng lưỡi tranh cãi, nhà cửa bất an. Cầu tài không được, hôn nhân không thành.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này cảnh báo mạnh mẽ về tranh chấp pháp lý, cãi vã và xung đột. Dù bạn cảm thấy có lý, tham gia đối đầu sẽ không có lợi—chỉ kéo dài xung đột.
+• Quẻ này cảnh báo mạnh mẽ về tranh chấp pháp lý, cãi vã và xung đột. Dù bạn cảm thấy có lý, tham gia đối đầu sẽ không có lợi - chỉ kéo dài xung đột.
 • Hãy tìm kiếm hòa giải thay vì chiến thắng. Con đường khôn ngoan là làm hòa, dù phải thỏa hiệp hoặc bỏ qua bất bình. Đấu tranh sẽ làm kiệt sức mà không có kết quả.
 • Đây không phải thời điểm thuận lợi cho quyết định lớn về tài chính, hợp tác, hoặc hôn nhân. Hãy chờ đến khi xung đột lắng xuống và hoàn cảnh rõ ràng hơn.
 
@@ -362,7 +362,7 @@ Middle Fortune (Neutral / Mixed)
 
 **Fortune Poem:**
 From the green mountain, a pine branch is cut down,
-To be a pillar or beam—it may not yet fit.
+To be a pillar or beam - it may not yet fit.
 It is only suited for tasks ahead, following commands,
 For you, the sixth month brings exchange for cool breeze.
 
@@ -371,7 +371,7 @@ The item has not reached its price; for now, wait and hold. If you ask about suc
 
 **Extended Interpretation:**
 • This fortune indicates that your current situation or endeavor is not yet mature. Like raw timber not ready to be a structural beam, you need more time to develop or for conditions to ripen.
-• Patience is essential now. Do not force outcomes or rush decisions. The timing is not right for major moves—wait for a more favorable season.
+• Patience is essential now. Do not force outcomes or rush decisions. The timing is not right for major moves - wait for a more favorable season.
 • The mention of "sixth month" and "autumn/summer" suggests that better opportunities will come later in the year. Use this waiting period for preparation and self-improvement.
 
 ---
@@ -391,7 +391,7 @@ Vật chưa được giá, tạm nên chờ giữ. Nếu hỏi hanh thông, đ�
 
 **Ý Nghĩa Mở Rộng:**
 • Quẻ này cho thấy tình huống hoặc công việc hiện tại chưa chín muồi. Như gỗ thô chưa sẵn sàng làm cột kèo, bạn cần thêm thời gian để phát triển hoặc để điều kiện chín muồi.
-• Kiên nhẫn là điều cần thiết lúc này. Đừng ép buộc kết quả hay vội vàng quyết định. Thời điểm chưa thích hợp cho bước đi lớn—hãy chờ mùa thuận lợi hơn.
+• Kiên nhẫn là điều cần thiết lúc này. Đừng ép buộc kết quả hay vội vàng quyết định. Thời điểm chưa thích hợp cho bước đi lớn - hãy chờ mùa thuận lợi hơn.
 • Nhắc đến "tháng sáu" và "thu hạ" gợi ý cơ hội tốt hơn sẽ đến sau trong năm. Hãy dùng thời gian chờ đợi để chuẩn bị và tự hoàn thiện.
 
 ---
@@ -405,17 +405,17 @@ STICK #10
 Lower Fortune (Caution Advised)
 
 **Fortune Poem:**
-A lead knife carving the body—in the end, to no avail,
-In the empty void, striking a chime—there is still sound.
+A lead knife carving the body - in the end, to no avail,
+In the empty void, striking a chime - there is still sound.
 Who knows that in the end it is all just empty fame,
 Grasping at the moon while also catching shadows.
 
 **Interpretation:**
-Matters inquired about will not succeed; seeking marriage will not succeed. Drawing cakes to satisfy hunger—it is all just empty names.
+Matters inquired about will not succeed; seeking marriage will not succeed. Drawing cakes to satisfy hunger - it is all just empty names.
 
 **Extended Interpretation:**
 • This fortune warns that your current pursuits may be illusory. Like trying to catch the moon's reflection or one's own shadow, you may be chasing things that cannot be grasped.
-• Beware of vanity and empty achievements. The "lead knife" symbolizes inadequate tools for the task—you may lack what is truly needed for success, no matter how hard you try.
+• Beware of vanity and empty achievements. The "lead knife" symbolizes inadequate tools for the task - you may lack what is truly needed for success, no matter how hard you try.
 • This is a time to reassess your goals. Are you pursuing substance or mere appearances? Step back and examine whether your efforts are directed toward something real and achievable.
 
 ---
@@ -435,7 +435,7 @@ Hỏi việc không thành, cầu hôn không thành. Vẽ bánh đỡ đói, to
 
 **Ý Nghĩa Mở Rộng:**
 • Quẻ này cảnh báo rằng những theo đuổi hiện tại có thể là ảo tưởng. Như cố bắt bóng trăng hay đuổi theo bóng mình, bạn có thể đang theo những thứ không thể nắm bắt.
-• Hãy cẩn thận với hư vinh và thành tựu rỗng tuếch. "Dao chì" tượng trưng cho công cụ không đủ khả năng—bạn có thể thiếu những gì thực sự cần thiết để thành công, dù cố gắng đến đâu.
+• Hãy cẩn thận với hư vinh và thành tựu rỗng tuếch. "Dao chì" tượng trưng cho công cụ không đủ khả năng - bạn có thể thiếu những gì thực sự cần thiết để thành công, dù cố gắng đến đâu.
 • Đây là lúc đánh giá lại mục tiêu. Bạn đang theo đuổi thực chất hay chỉ là vẻ bề ngoài? Hãy lùi lại và xem xét liệu nỗ lực có hướng đến điều thực tế và khả thi hay không.
 
 ---

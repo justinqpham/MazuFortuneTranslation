@@ -68,7 +68,7 @@ Coming from the shadows, none can resist.
 The Dark Warrior in conflict, harmony does not align. Due to resentment, no words spoken, inviting further disasters.
 
 **Extended Interpretation:**
-• This fortune warns of financial losses caused by hidden or shadowy influences. The Dark Warrior (Xuanwu) represents secret enemies, thieves, and deception—be extremely vigilant about your possessions and transactions.
+• This fortune warns of financial losses caused by hidden or shadowy influences. The Dark Warrior (Xuanwu) represents secret enemies, thieves, and deception - be extremely vigilant about your possessions and transactions.
 • Silent grudges and unspoken resentments are creating problems. Address conflicts directly rather than letting them fester, as suppressed anger is attracting additional misfortune.
 • Take practical security measures: protect valuables, be cautious with financial dealings, and be wary of people who seem friendly but may harbor ulterior motives.
 
@@ -88,7 +88,7 @@ Tự nơi âm người đến vô địch.
 Huyền Vũ giao thoa, hòa hợp không thuận. Vì oán không nói, càng gây tai họa.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này cảnh báo về tổn thất tài chính do những ảnh hưởng ẩn giấu hoặc bí mật. Huyền Vũ đại diện cho kẻ thù bí mật, trộm cắp và lừa dối—hãy cực kỳ cảnh giác về tài sản và giao dịch.
+• Quẻ này cảnh báo về tổn thất tài chính do những ảnh hưởng ẩn giấu hoặc bí mật. Huyền Vũ đại diện cho kẻ thù bí mật, trộm cắp và lừa dối - hãy cực kỳ cảnh giác về tài sản và giao dịch.
 • Những oán hận im lặng và bất bình không nói ra đang gây ra vấn đề. Giải quyết xung đột trực tiếp thay vì để chúng âm ỉ, vì sự tức giận bị kìm nén đang thu hút thêm bất hạnh.
 • Hãy thực hiện các biện pháp an ninh thực tế: bảo vệ đồ quý, thận trọng với giao dịch tài chính, và cẩn thận với những người có vẻ thân thiện nhưng có thể có động cơ ẩn giấu.
 
@@ -156,7 +156,7 @@ Disputes become lawsuits, illness hard to cure.
 Gou Chen connects again and again, matters are much entangled. Seeking office is not near, illness is not healed.
 
 **Extended Interpretation:**
-• This fortune warns of a period of stagnation where every direction seems blocked. Gou Chen is one of the six spirits representing entanglement and complications—expect matters to become more complex rather than resolving.
+• This fortune warns of a period of stagnation where every direction seems blocked. Gou Chen is one of the six spirits representing entanglement and complications - expect matters to become more complex rather than resolving.
 • Neither advancing nor retreating will work now. Career ambitions face delays, disputes risk escalating to legal battles, and health issues persist. This is a time for patience, not action.
 • Focus on maintaining your current position rather than seeking gains. Avoid starting new projects, legal confrontations, or major decisions until conditions improve.
 
@@ -176,7 +176,7 @@ Tranh cãi thành kiện, bệnh khó lành.
 Câu Trần nối nối, việc nhiều vướng víu. Cầu quan chưa đến, bệnh tật chưa khỏi.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này cảnh báo về giai đoạn trì trệ khi mọi hướng đều bị chặn. Câu Trần là một trong sáu vị thần đại diện cho sự vướng víu và phức tạp—hãy đợi mọi việc trở nên phức tạp hơn thay vì giải quyết.
+• Quẻ này cảnh báo về giai đoạn trì trệ khi mọi hướng đều bị chặn. Câu Trần là một trong sáu vị thần đại diện cho sự vướng víu và phức tạp - hãy đợi mọi việc trở nên phức tạp hơn thay vì giải quyết.
 • Cả tiến lẫn lui đều không hiệu quả lúc này. Tham vọng sự nghiệp gặp trì hoãn, tranh chấp có nguy cơ leo thang thành kiện tụng, và vấn đề sức khỏe kéo dài. Đây là lúc kiên nhẫn, không phải hành động.
 • Tập trung vào việc duy trì vị trí hiện tại thay vì tìm kiếm lợi ích. Tránh bắt đầu dự án mới, đối đầu pháp lý, hoặc quyết định lớn cho đến khi điều kiện cải thiện.
 
@@ -200,7 +200,7 @@ Holding hands, carrying the sheng flute, sleeves dancing low.
 All matters go as wished, marriage shall succeed. Seeking wealth brings harmony and profit; most suitable in spring.
 
 **Extended Interpretation:**
-• This is a highly favorable fortune for partnerships and joint ventures. When two people work together with aligned intentions, success is assured—the foundation for great achievement is being built.
+• This is a highly favorable fortune for partnerships and joint ventures. When two people work together with aligned intentions, success is assured - the foundation for great achievement is being built.
 • The imagery of building a ladder to heaven from level ground suggests that ambitious goals are achievable through cooperation. What seems impossible alone becomes possible together.
 • Particularly auspicious for marriage and romantic relationships. The image of dancing together with musical instruments speaks of harmonious union. Spring is the optimal time for new beginnings in relationships and business.
 
@@ -220,7 +220,7 @@ Nắm tay mang sáo, tay áo múa thấp.
 Trăm sự như ý, hôn nhân sẽ thành. Cầu tài lợi hòa, rất hợp gặp xuân.
 
 **Ý Nghĩa Mở Rộng:**
-• Đây là quẻ rất thuận lợi cho quan hệ đối tác và liên doanh. Khi hai người làm việc cùng nhau với ý định thống nhất, thành công được đảm bảo—nền tảng cho thành tựu lớn đang được xây dựng.
+• Đây là quẻ rất thuận lợi cho quan hệ đối tác và liên doanh. Khi hai người làm việc cùng nhau với ý định thống nhất, thành công được đảm bảo - nền tảng cho thành tựu lớn đang được xây dựng.
 • Hình ảnh xây thang lên trời từ đất bằng gợi ý rằng mục tiêu tham vọng có thể đạt được qua hợp tác. Điều có vẻ không thể một mình sẽ trở nên khả thi cùng nhau.
 • Đặc biệt may mắn cho hôn nhân và quan hệ tình cảm. Hình ảnh cùng nhau nhảy múa với nhạc cụ nói về sự kết hợp hài hòa. Mùa xuân là thời điểm tối ưu cho khởi đầu mới trong quan hệ và kinh doanh.
 
@@ -245,7 +245,7 @@ The White Tiger at the gate, all matters are inauspicious. Much unexpected disas
 
 **Extended Interpretation:**
 • This is a serious warning fortune. The White Tiger is one of the most feared symbols in Chinese astrology, representing violence, accidents, legal troubles, and bloodshed when appearing at one's "gate."
-• Physical danger is indicated—take extra care to avoid accidents, injuries, and confrontations. This is not a time to take physical risks or engage in dangerous activities.
+• Physical danger is indicated - take extra care to avoid accidents, injuries, and confrontations. This is not a time to take physical risks or engage in dangerous activities.
 • Legal matters and conflicts with authorities are especially perilous now. Avoid any actions that could lead to official trouble, lawsuits, or run-ins with the law.
 
 ---
@@ -265,7 +265,7 @@ Bạch Hổ đương môn, việc đều chẳng lành. Nhiều họa ngang đ�
 
 **Ý Nghĩa Mở Rộng:**
 • Đây là quẻ cảnh báo nghiêm trọng. Bạch Hổ là một trong những biểu tượng đáng sợ nhất trong chiêm tinh Trung Hoa, đại diện cho bạo lực, tai nạn, rắc rối pháp lý, và đổ máu khi xuất hiện ở "cửa" của một người.
-• Nguy hiểm vật lý được chỉ ra—hãy cẩn thận hơn để tránh tai nạn, thương tích, và đối đầu. Đây không phải lúc để mạo hiểm về thể chất hoặc tham gia các hoạt động nguy hiểm.
+• Nguy hiểm vật lý được chỉ ra - hãy cẩn thận hơn để tránh tai nạn, thương tích, và đối đầu. Đây không phải lúc để mạo hiểm về thể chất hoặc tham gia các hoạt động nguy hiểm.
 • Các vấn đề pháp lý và xung đột với chính quyền đặc biệt nguy hiểm lúc này. Tránh bất kỳ hành động nào có thể dẫn đến rắc rối chính thức, kiện tụng, hoặc va chạm với pháp luật.
 
 ---
@@ -420,7 +420,7 @@ Indeed, one arrow strikes two birds in flight.
 Letters transmitted by goose feet; one arrow, two birds fly together. If you encounter autumn months, great fortune and benefit await.
 
 **Extended Interpretation:**
-• This is an excellent fortune promising double success—one effort yielding two rewards. Like an arrow striking two birds, your actions will achieve multiple goals simultaneously.
+• This is an excellent fortune promising double success - one effort yielding two rewards. Like an arrow striking two birds, your actions will achieve multiple goals simultaneously.
 • The imagery of the fat autumn rabbit and successful hunt indicates that timing is optimal for harvest. Whatever you pursue now is ripe for the taking.
 • Communication and messages will bring good news, symbolized by the letter carried on goose feet. Autumn is especially favorable for reaping the rewards of your efforts.
 
@@ -440,7 +440,7 @@ Quả nhiên một tên trúng hai bay.
 Thư truyền chân nhạn, một tên hai bay. Nếu gặp tháng thu, cát khánh đại lợi.
 
 **Ý Nghĩa Mở Rộng:**
-• Đây là quẻ rất tốt hứa hẹn thành công gấp đôi—một nỗ lực mang lại hai phần thưởng. Như mũi tên bắn trúng hai chim, hành động của bạn sẽ đạt được nhiều mục tiêu cùng lúc.
+• Đây là quẻ rất tốt hứa hẹn thành công gấp đôi - một nỗ lực mang lại hai phần thưởng. Như mũi tên bắn trúng hai chim, hành động của bạn sẽ đạt được nhiều mục tiêu cùng lúc.
 • Hình ảnh thỏ thu béo và cuộc săn thành công chỉ ra rằng thời điểm tối ưu cho thu hoạch. Bất cứ điều gì bạn theo đuổi bây giờ đều chín muồi để đạt được.
 • Giao tiếp và tin nhắn sẽ mang đến tin tốt, được tượng trưng bằng bức thư mang trên chân nhạn. Mùa thu đặc biệt thuận lợi để gặt hái thành quả của nỗ lực.
 

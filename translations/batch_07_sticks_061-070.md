@@ -16,7 +16,7 @@ Lower Fortune (Caution Advised)
 
 **Fortune Poem:**
 The playing qin's strings are broken, quietly without sound,
-Ten thousand regrets—this human world desires to be in full bloom.
+Ten thousand regrets - this human world desires to be in full bloom.
 Frost and snow accumulate in the garden, flowers naturally fade and sink,
 Frozen in sorrow and regret.
 
@@ -25,7 +25,7 @@ The qin's strings break then continue; the full moon must wane. Divining lawsuit
 
 **Extended Interpretation:**
 • This fortune uses the imagery of a broken musical instrument to represent severed connections, failed communications, and interrupted harmony. Something beautiful has been damaged.
-• The cycle of fullness followed by decline is emphasized—expect reversals after periods of success. Legal matters in particular carry danger of unfavorable outcomes.
+• The cycle of fullness followed by decline is emphasized - expect reversals after periods of success. Legal matters in particular carry danger of unfavorable outcomes.
 • Health matters remain uncertain. Like flowers under frost, vitality may be suppressed. This is a time for caution and preservation, not new ventures.
 
 ---
@@ -45,7 +45,7 @@ Sương tuyết chất vườn hoa tự chìm,
 
 **Ý Nghĩa Mở Rộng:**
 • Quẻ này dùng hình ảnh nhạc cụ hỏng để đại diện cho sự đứt kết nối, giao tiếp thất bại, và hòa hợp bị gián đoạn. Điều gì đó đẹp đẽ đã bị tổn hại.
-• Chu kỳ đầy đủ rồi suy tàn được nhấn mạnh—hãy mong đợi sự đảo ngược sau những giai đoạn thành công. Các vấn đề pháp lý đặc biệt mang nguy cơ kết quả bất lợi.
+• Chu kỳ đầy đủ rồi suy tàn được nhấn mạnh - hãy mong đợi sự đảo ngược sau những giai đoạn thành công. Các vấn đề pháp lý đặc biệt mang nguy cơ kết quả bất lợi.
 • Các vấn đề sức khỏe vẫn không chắc chắn. Như hoa dưới sương giá, sức sống có thể bị đè nén. Đây là lúc thận trọng và bảo toàn, không phải cho các dự án mới.
 
 ---
@@ -59,8 +59,8 @@ STICK #62
 Upper Fortune (Good / Auspicious)
 
 **Fortune Poem:**
-Daughter marries, son weds—just at the right time,
-Spring silkworms and autumn harvest—both are fitting.
+Daughter marries, son weds - just at the right time,
+Spring silkworms and autumn harvest - both are fitting.
 Going to market or court, all who emerge are honored and noble,
 Even illness that stains the fair complexion will find its cure.
 
@@ -68,7 +68,7 @@ Even illness that stains the fair complexion will find its cure.
 Daughter marries, son weds; spring silkworms, autumn harvest. All matters harmonize; long illness fully heals.
 
 **Extended Interpretation:**
-• This is an excellent fortune for timing—everything is happening at exactly the right moment. Marriages, business ventures, and agricultural endeavors are all perfectly aligned with favorable conditions.
+• This is an excellent fortune for timing - everything is happening at exactly the right moment. Marriages, business ventures, and agricultural endeavors are all perfectly aligned with favorable conditions.
 • Family matters, especially marriages and children's futures, are particularly blessed. This is an ideal time for weddings, betrothals, and family celebrations.
 • Even health problems that have persisted will find resolution. Seek treatment now, as conditions favor healing and recovery from chronic conditions.
 
@@ -88,7 +88,7 @@ Bệnh nhuốm nhan sắc cũng được chữa.
 Gái gả trai cưới, xuân tằm thu lúa. Trăm sự hòa hợp, bệnh lâu khỏi hẳn.
 
 **Ý Nghĩa Mở Rộng:**
-• Đây là quẻ rất tốt về thời điểm—mọi thứ đang xảy ra đúng lúc. Hôn nhân, kinh doanh, và nông nghiệp đều hoàn toàn phù hợp với điều kiện thuận lợi.
+• Đây là quẻ rất tốt về thời điểm - mọi thứ đang xảy ra đúng lúc. Hôn nhân, kinh doanh, và nông nghiệp đều hoàn toàn phù hợp với điều kiện thuận lợi.
 • Các vấn đề gia đình, đặc biệt là hôn nhân và tương lai con cái, được ban phước đặc biệt. Đây là thời điểm lý tưởng cho đám cưới, đính hôn, và lễ kỷ niệm gia đình.
 • Ngay cả những vấn đề sức khỏe kéo dài cũng sẽ được giải quyết. Hãy tìm kiếm điều trị ngay bây giờ, vì điều kiện thuận lợi cho việc chữa lành và phục hồi từ các bệnh mãn tính.
 
@@ -104,7 +104,7 @@ Upper Fortune (Good / Auspicious)
 
 **Fortune Poem:**
 For years, beauty has borne the thread of destiny,
-Finding a son-in-law for the east hall—just at the right time.
+Finding a son-in-law for the east hall - just at the right time.
 This is exactly the auspicious dream of bear and leopard,
 Pregnant, giving birth without realizing it's a boy.
 
@@ -112,7 +112,7 @@ Pregnant, giving birth without realizing it's a boy.
 Long rain finds sunshine; long oppression finds release. Pregnancy foretells a son; suddenly encountering an auspicious moment.
 
 **Extended Interpretation:**
-• This fortune promises the end of long-awaited difficulties—like rain finally clearing after a prolonged period. If you have been patient through hardship, relief is coming.
+• This fortune promises the end of long-awaited difficulties - like rain finally clearing after a prolonged period. If you have been patient through hardship, relief is coming.
 • The "bear and leopard dream" (熊羆夢) is a classical Chinese omen predicting the birth of sons. This fortune is particularly favorable for those hoping to conceive or expecting children.
 • The imagery of "the east hall son-in-law" refers to the famous story of Wang Xizhi, representing an ideal match. Marriage prospects are excellent, with unions that will bring lasting happiness.
 
@@ -132,7 +132,7 @@ Mang thai không biết là con trai.
 Mưa lâu được nắng, ức lâu được thư. Thai chủ sinh nam, bỗng gặp lương thì.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này hứa hẹn sự kết thúc của những khó khăn chờ đợi lâu—như mưa cuối cùng tan sau thời gian dài. Nếu bạn đã kiên nhẫn qua gian khổ, sự nhẹ nhõm đang đến.
+• Quẻ này hứa hẹn sự kết thúc của những khó khăn chờ đợi lâu - như mưa cuối cùng tan sau thời gian dài. Nếu bạn đã kiên nhẫn qua gian khổ, sự nhẹ nhõm đang đến.
 • "Giấc mộng hùng bi" (熊羆夢) là điềm báo cổ điển Trung Hoa dự đoán sinh con trai. Quẻ này đặc biệt thuận lợi cho những ai mong muốn thụ thai hoặc đang mang thai.
 • Hình ảnh "rể đông sàng" nhắc đến câu chuyện nổi tiếng về Vương Hy Chi, đại diện cho một cuộc hôn nhân lý tưởng. Triển vọng hôn nhân rất tốt, với những kết hợp sẽ mang lại hạnh phúc lâu dài.
 
@@ -150,15 +150,15 @@ Lower Fortune (Caution Advised)
 Fish swimming in clear waters worry about nets being spread,
 Birds entering the forest fear snares being set.
 What day will this body escape from much anxiety and sorrow?
-The moon—one dream to Nanke, shattered.
+The moon - one dream to Nanke, shattered.
 
 **Interpretation:**
 Fish swimming avoid nets; flying geese encounter bows. Coming and going have obstacles; nets upon nets surround.
 
 **Extended Interpretation:**
-• This fortune describes a feeling of being trapped or hunted—like fish fearing nets or birds fearing snares. Danger surrounds you from multiple directions.
+• This fortune describes a feeling of being trapped or hunted - like fish fearing nets or birds fearing snares. Danger surrounds you from multiple directions.
 • Movement in any direction carries risk. Whether advancing or retreating, obstacles and threats await. This is a time for extreme caution and minimal action.
-• The reference to "Nanke dream" alludes to a famous story about the illusory nature of worldly success—even hopes and plans may prove to be empty dreams that shatter upon waking.
+• The reference to "Nanke dream" alludes to a famous story about the illusory nature of worldly success - even hopes and plans may prove to be empty dreams that shatter upon waking.
 
 ---
 
@@ -176,9 +176,9 @@ Trăng một giấc mơ Nam Kha vỡ.
 Cá bơi tránh lưới, nhạn bay gặp cung. Ra vào có trở ngại, lưới chồng chất lưới.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này mô tả cảm giác bị mắc kẹt hoặc bị săn đuổi—như cá sợ lưới hay chim sợ bẫy. Nguy hiểm bao quanh bạn từ nhiều hướng.
+• Quẻ này mô tả cảm giác bị mắc kẹt hoặc bị săn đuổi - như cá sợ lưới hay chim sợ bẫy. Nguy hiểm bao quanh bạn từ nhiều hướng.
 • Di chuyển theo bất kỳ hướng nào đều mang rủi ro. Dù tiến hay lui, trở ngại và mối đe dọa đang chờ đợi. Đây là lúc cực kỳ thận trọng và hành động tối thiểu.
-• Nhắc đến "giấc mơ Nam Kha" ám chỉ câu chuyện nổi tiếng về bản chất hư ảo của thành công trần thế—ngay cả hy vọng và kế hoạch cũng có thể là giấc mơ rỗng tan vỡ khi tỉnh dậy.
+• Nhắc đến "giấc mơ Nam Kha" ám chỉ câu chuyện nổi tiếng về bản chất hư ảo của thành công trần thế - ngay cả hy vọng và kế hoạch cũng có thể là giấc mơ rỗng tan vỡ khi tỉnh dậy.
 
 ---
 
@@ -191,16 +191,16 @@ STICK #65
 Middle Fortune (Neutral / Mixed)
 
 **Fortune Poem:**
-Guard your place, follow fate—everywhere is peaceful,
+Guard your place, follow fate - everywhere is peaceful,
 Scheming and wishful thinking will surely invite fault.
-Spring orchids, autumn osmanthus—each blooms in its season,
-Accepting circumstances, resting in normalcy—this is the field of blessings.
+Spring orchids, autumn osmanthus - each blooms in its season,
+Accepting circumstances, resting in normalcy - this is the field of blessings.
 
 **Interpretation:**
 In one's life in the world, it is proper to guard one's place. All things have their time; naturally one enjoys peace.
 
 **Extended Interpretation:**
-• This fortune counsels contentment and acceptance. Like flowers that bloom in their proper seasons, each thing has its appropriate time—forcing outcomes invites trouble.
+• This fortune counsels contentment and acceptance. Like flowers that bloom in their proper seasons, each thing has its appropriate time - forcing outcomes invites trouble.
 • Ambitious scheming beyond your proper station will backfire. Stay within your role and responsibilities; peace comes from accepting your current position.
 • The "field of blessings" is cultivated through acceptance, not striving. True prosperity comes from aligning with natural timing rather than forcing premature results.
 
@@ -220,7 +220,7 @@ Xuân lan thu quế tùy thời phát,
 Người sinh ở đời, lý nên giữ phận. Phàm sự có thời, tự nhiên hưởng thái.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này khuyên sự tri túc và chấp nhận. Như hoa nở đúng mùa, mỗi việc có thời điểm thích hợp—ép buộc kết quả sẽ gây rắc rối.
+• Quẻ này khuyên sự tri túc và chấp nhận. Như hoa nở đúng mùa, mỗi việc có thời điểm thích hợp - ép buộc kết quả sẽ gây rắc rối.
 • Mưu đồ tham vọng vượt quá vị trí của bạn sẽ phản tác dụng. Hãy ở trong vai trò và trách nhiệm của mình; bình an đến từ việc chấp nhận vị trí hiện tại.
 • "Ruộng phước" được vun trồng qua sự chấp nhận, không phải nỗ lực. Thịnh vượng thực sự đến từ việc hài hòa với thời điểm tự nhiên thay vì ép buộc kết quả sớm.
 
@@ -244,7 +244,7 @@ Where the tidal surge arrives, everywhere the sea gates open.
 Long trapped in dust, when misfortune ends, fortune comes. East and west hold promise; whatever is used encounters wealth.
 
 **Extended Interpretation:**
-• This fortune speaks to those who have struggled in obscurity for a long time. Like a hero trapped in dust for ten years, your talents have gone unrecognized—but change is coming.
+• This fortune speaks to those who have struggled in obscurity for a long time. Like a hero trapped in dust for ten years, your talents have gone unrecognized - but change is coming.
 • Auspicious signs appearing in dreams suggest that transformation is near. The tide is turning, and opportunities will soon open up like sea gates before the tidal surge.
 • The Qiantang River's famous tidal bore represents dramatic, powerful change. After long stagnation, expect sudden and significant improvement in your circumstances.
 
@@ -264,7 +264,7 @@ Sóng triều đến đâu cửa biển mở.
 Lâu khốn bụi trần, bĩ cực thái lai. Đông tây có vọng, dùng gì gặp tài.
 
 **Ý Nghĩa Mở Rộng:**
-• Quẻ này nói với những ai đã vật lộn trong bóng tối lâu dài. Như anh hùng bị mắc kẹt trong bụi trần mười năm, tài năng của bạn không được công nhận—nhưng thay đổi đang đến.
+• Quẻ này nói với những ai đã vật lộn trong bóng tối lâu dài. Như anh hùng bị mắc kẹt trong bụi trần mười năm, tài năng của bạn không được công nhận - nhưng thay đổi đang đến.
 • Điềm lành xuất hiện trong giấc mơ gợi ý rằng sự chuyển đổi đã gần. Thủy triều đang quay, và cơ hội sẽ sớm mở ra như cửa biển trước sóng triều.
 • Sóng triều nổi tiếng của sông Tiền Đường đại diện cho sự thay đổi mạnh mẽ, ngoạn mục. Sau thời gian trì trệ lâu dài, hãy mong đợi sự cải thiện đột ngột và đáng kể trong hoàn cảnh.
 
@@ -323,7 +323,7 @@ STICK #68
 Lower Fortune (Caution Advised)
 
 **Fortune Poem:**
-Spring arrives at the garden—it is time for pleasant outings,
+Spring arrives at the garden - it is time for pleasant outings,
 One tune of sheng flute songs, a melody of good things.
 But good things turn around to become bad things,
 Leading two beauties to arrive at the Cowherd star.
@@ -334,7 +334,7 @@ Within prosperity there is decline; within joy there is worry. Guard against los
 **Extended Interpretation:**
 • This fortune warns that current good times contain the seeds of future trouble. What seems like pleasant spring outings and beautiful music will transform into problems.
 • The reference to "two beauties" and "Cowherd star" alludes to romantic complications. Beware of situations involving multiple romantic interests or triangles that will lead to loss.
-• Even when things appear to be going well, remain vigilant. The reversal from good to bad can happen suddenly—do not be lulled into complacency by temporary pleasures.
+• Even when things appear to be going well, remain vigilant. The reversal from good to bad can happen suddenly - do not be lulled into complacency by temporary pleasures.
 
 ---
 
@@ -354,7 +354,7 @@ Trong thái có bĩ, trong vui có lo. Đề phòng mất mát, hai đuôi kéo 
 **Ý Nghĩa Mở Rộng:**
 • Quẻ này cảnh báo rằng những thời điểm tốt đẹp hiện tại chứa đựng mầm mống của rắc rối tương lai. Những gì có vẻ như dạo chơi xuân vui vẻ và âm nhạc đẹp đẽ sẽ biến thành vấn đề.
 • Nhắc đến "hai mỹ nhân" và "sao Ngưu Lang" ám chỉ những phức tạp tình cảm. Hãy cẩn thận với các tình huống liên quan đến nhiều mối quan hệ tình cảm hoặc tam giác sẽ dẫn đến mất mát.
-• Ngay cả khi mọi thứ có vẻ suôn sẻ, hãy luôn cảnh giác. Sự đảo ngược từ tốt sang xấu có thể xảy ra đột ngột—đừng để những thú vui tạm thời ru ngủ bạn vào sự tự mãn.
+• Ngay cả khi mọi thứ có vẻ suôn sẻ, hãy luôn cảnh giác. Sự đảo ngược từ tốt sang xấu có thể xảy ra đột ngột - đừng để những thú vui tạm thời ru ngủ bạn vào sự tự mãn.
 
 ---
 
@@ -377,7 +377,7 @@ Wings and feathers now complete, the path to azure clouds is found. The great pe
 
 **Extended Interpretation:**
 • This is an excellent fortune for ambitious endeavors. Like a great bird soaring on the wind, you are ready to achieve heights previously beyond reach.
-• Your preparation is complete—"wings and feathers" are formed. Now is the time to launch major initiatives, pursue distant goals, and aim for the highest achievements.
+• Your preparation is complete - "wings and feathers" are formed. Now is the time to launch major initiatives, pursue distant goals, and aim for the highest achievements.
 • Even extremely difficult or distant objectives are achievable now. The "ten thousand miles" journey that once seemed impossible can be accomplished when timing and preparation align.
 
 ---
@@ -397,7 +397,7 @@ Cánh lông đã thành, đường mây xanh được. Bằng ưng bay ngang, v�
 
 **Ý Nghĩa Mở Rộng:**
 • Đây là quẻ rất tốt cho những nỗ lực tham vọng. Như chim lớn bay cao trên gió, bạn đã sẵn sàng đạt được những tầm cao trước đây ngoài tầm với.
-• Sự chuẩn bị của bạn đã hoàn tất—"cánh và lông" đã hình thành. Bây giờ là lúc khởi động các sáng kiến lớn, theo đuổi mục tiêu xa, và nhắm đến thành tựu cao nhất.
+• Sự chuẩn bị của bạn đã hoàn tất - "cánh và lông" đã hình thành. Bây giờ là lúc khởi động các sáng kiến lớn, theo đuổi mục tiêu xa, và nhắm đến thành tựu cao nhất.
 • Ngay cả những mục tiêu cực kỳ khó khăn hoặc xa xôi cũng có thể đạt được bây giờ. Hành trình "vạn dặm" từng có vẻ không thể có thể hoàn thành khi thời điểm và sự chuẩn bị hội đủ.
 
 ---
@@ -421,7 +421,7 @@ Fortune moves and becomes disaster; too much joy becomes decline. Gloom is still
 
 **Extended Interpretation:**
 • This is a serious warning about the transformation of good fortune into calamity. Current happiness and prosperity are in danger of reversing into their opposites.
-• Family matters are particularly troubled—domestic harmony is disrupted, and problems multiply. Even attempts to add positivity to the household create further complications.
+• Family matters are particularly troubled - domestic harmony is disrupted, and problems multiply. Even attempts to add positivity to the household create further complications.
 • The strange imagery of "three-cornered dogs" suggests unnatural or bizarre troubles that keep returning. Breaking this cycle requires fundamental changes, not superficial fixes.
 
 ---
@@ -441,7 +441,7 @@ Phúc dời thành họa, vui nhiều thành suy. Buồn còn chưa giải, họ
 
 **Ý Nghĩa Mở Rộng:**
 • Đây là cảnh báo nghiêm trọng về sự chuyển đổi của vận may thành tai họa. Hạnh phúc và thịnh vượng hiện tại đang có nguy cơ đảo ngược thành đối lập.
-• Các vấn đề gia đình đặc biệt rắc rối—hòa thuận gia đình bị phá vỡ, và vấn đề nhân lên. Ngay cả nỗ lực thêm điều tích cực vào gia đình cũng tạo ra thêm phức tạp.
+• Các vấn đề gia đình đặc biệt rắc rối - hòa thuận gia đình bị phá vỡ, và vấn đề nhân lên. Ngay cả nỗ lực thêm điều tích cực vào gia đình cũng tạo ra thêm phức tạp.
 • Hình ảnh kỳ lạ "chó ba góc" gợi ý những rắc rối bất thường hoặc kỳ quái cứ quay lại. Phá vỡ chu kỳ này đòi hỏi những thay đổi căn bản, không phải sửa chữa bề mặt.
 
 ---
