@@ -1,13 +1,12 @@
 <!DOCTYPE html>
-<html lang="zh-Hant">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>關聖帝君靈籤</title>
+  <title>Mazu Fortune Reading</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <!-- Using Noto Serif TC for traditional Chinese characters -->
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
   <style>
     * {{
       margin: 0;
@@ -21,9 +20,9 @@
     }}
 
     body {{
-      font-family: 'Noto Serif TC', 'Microsoft YaHei', 'PingFang TC', 'Heiti TC', serif;
-      font-size: 14px;
-      line-height: 1.8;
+      font-family: 'EB Garamond', Georgia, serif;
+      font-size: 12px;
+      line-height: 1.4;
       color: #000;
       background: #f5f5f5;
     }}
@@ -32,7 +31,7 @@
       width: 8.5in;
       height: 11in;
       background: white;
-      padding: 32px 80px;
+      padding: 24px 60px;
       margin: 0 auto;
       display: flex;
       flex-direction: column;
@@ -61,7 +60,7 @@
       }}
       .page {{
         margin: 0;
-        padding: 32px 80px;
+        padding: 24px 60px;
         page-break-after: avoid;
         overflow: hidden;
       }}
@@ -69,80 +68,86 @@
 
     /* === HEADER SECTION === */
     .header {{
+      text-align: left;
+      padding-top: 20px;
+    }}
+
+    .header-group {{
+      display: inline-block;
       text-align: center;
-      margin-bottom: 36px;
-      padding-top: 24px;
     }}
 
     .header-title {{
-      font-size: 56px;
-      font-weight: 900;
-      letter-spacing: 8px;
+      font-size: 24px;
+      font-weight: 1000;
+      font-style: italic;
+      margin-bottom: 4px;
+    }}
+
+    .header-title-vn {{
+      font-size: 24px;
+      font-weight: 1000;
+      font-style: italic;
       margin-bottom: 16px;
     }}
 
     .stick-number {{
-      font-size: 36px;
-      font-weight: 900;
+      font-size: 48px;
+      font-weight: 700;
       line-height: 1;
-      letter-spacing: 4px;
-      margin-bottom: 80px;
     }}
 
     /* === MAIN CONTENT === */
     .content {{
-      max-width: 550px;
-      margin: 0 auto;
+      display: flex;
+      gap: 42px;
+      flex: 1;
+    }}
+
+    .column {{
       flex: 1;
       display: flex;
       flex-direction: column;
     }}
 
+    .column-english {{
+      justify-content: flex-end;
+      padding-bottom: 52px;
+    }}
+
+    .column-vietnamese {{
+      justify-content: flex-start;
+      padding-top: 20px;
+    }}
+
     /* === FORTUNE RATING === */
     .fortune-rating {{
-      text-align: center;
-      margin-bottom: 20px;
+      margin-bottom: 16px;
     }}
 
     .fortune-rating-title {{
-      font-size: 36px;
-      font-weight: 900;
-      letter-spacing: 4px;
-      margin-bottom: 4px;
+      font-size: 16px;
+      font-weight: 700;
     }}
 
     .fortune-rating-subtitle {{
-      font-size: 16px;
-      font-weight: 500;
-      letter-spacing: 2px;
+      font-size: 12px;
+      font-weight: 700;
     }}
 
     /* === SECTIONS === */
     .section {{
-      margin-bottom: 20px;
+      margin-bottom: 4px;
     }}
 
     .section-title {{
-      font-size: 18px;
+      font-size: 14px;
       font-weight: 700;
-      text-align: center;
-      margin-bottom: 8px;
-      letter-spacing: 6px;
     }}
 
     .section-content {{
-      font-size: 14px;
+      font-size: 12px;
       font-weight: 400;
-      text-align: justify;
-      line-height: 2;
-    }}
-
-    /* Sacred Meaning - special formatting */
-    .sacred-meaning-content {{
-      text-align: center;
-      line-height: 1.6;
-      font-size: 13px;
-      letter-spacing: 1px;
     }}
 
     /* Fortune Poem */
@@ -150,24 +155,31 @@
       font-style: normal;
     }}
 
+    .poem-title {{
+      font-size: 14px;
+      font-weight: 700;
+      text-align: right;
+    }}
+
     .poem-stanza {{
       margin-bottom: 8px;
       white-space: pre-line;
-      text-align: center;
-      line-height: 2.2;
-      font-size: 15px;
+      text-align: justify;
+      text-align-last: right;
     }}
 
-    /* Interpretation section */
-    .interpretation-content {{
-      text-indent: 2em;
-      text-align: center;
-      line-height: 2.2;
-      font-size: 14px;
+    /* Interpretation section with bullets */
+    .interpretation-list {{
+      list-style: disc;
+      padding-left: 16px;
     }}
 
- 
-  
+    .interpretation-list li {{
+      margin-bottom: 4px;
+      text-align: justify;
+      text-align-last: left;
+    }}
+
     /* === FOOTER === */
     .footer {{
       padding-top: 16px;
@@ -203,6 +215,7 @@
       text-align: right;
       flex: 1;
     }}
+    
   </style>
 </head>
 <body>
@@ -217,35 +230,67 @@
 
   <!-- HEADER -->
   <header class="header">
-    <div class="header-title">關聖帝君靈籤</div>
-    <div class="stick-number">{stick_num}</div>
+    <div class="header-group">
+      <div class="header-title">Mazu Fortune Reading</div>
+      <div class="header-title-vn">Linh Quẻ Thiên Hậu Thánh Mẫu</div>
+      <div class="stick-number">{stick_num}</div>
+    </div>
   </header>
 
   <!-- MAIN CONTENT -->
   <main class="content">
-    <!-- FORTUNE RATING -->
-    <div class="fortune-rating">
-      <div class="fortune-rating-title">{rating}</div>
-    </div>
+    <!-- ENGLISH COLUMN -->
+    <div class="column column-english">
+      <div class="fortune-rating">
+        <div class="fortune-rating-title">{en_rating}</div>
+        <div class="fortune-rating-subtitle">({en_subtitle})</div>
+      </div>
 
-    <!-- SACRED MEANING -->
-    <div class="section">
-      <div class="section-title">聖意</div>
-      <div class="sacred-meaning-content">{sacred_meaning}</div>
-    </div>
+      <div class="section">
+        <div class="poem-title">Fortune Poem</div>
+        <div class="poem section-content">
+          <div class="poem-stanza">{en_poem}</div>
+        </div>
+      </div>
 
-    <!-- FORTUNE POEM -->
-    <div class="section">
-      <div class="section-title">籤詩</div>
-      <div class="poem section-content">
-        <div class="poem-stanza">{poem}</div>
+      <div class="section">
+        <div class="section-title">Interpretation</div>
+        <div class="section-content">{en_interpretation}</div>
+      </div>
+
+      <div class="section">
+        <div class="section-title">Extended Interpretation</div>
+        <ul class="interpretation-list section-content">
+{en_extended_interpretation}
+        </ul>
       </div>
     </div>
 
-    <!-- INTERPRETATION -->
-    <div class="section">
-      <div class="section-title">解籤</div>
-      <div class="interpretation-content">{interpretation}</div>
+    <!-- VIETNAMESE COLUMN -->
+    <div class="column column-vietnamese">
+      <div class="fortune-rating">
+        <div class="fortune-rating-title">{vn_rating}</div>
+        <div class="fortune-rating-subtitle">({vn_subtitle})</div>
+      </div>
+
+      <div class="section">
+        <div class="poem-title">Bài Thơ Quẻ</div>
+        <div class="poem section-content">
+          <div class="poem-stanza">{vn_poem}</div>
+        </div>
+      </div>
+
+      <div class="section">
+        <div class="section-title">Giải Quẻ</div>
+        <div class="section-content">{vn_interpretation}</div>
+      </div>
+
+      <div class="section">
+        <div class="section-title">Ý Nghĩa Mở Rộng</div>
+        <ul class="interpretation-list section-content">
+{vn_extended_interpretation}
+        </ul>
+      </div>
     </div>
   </main>
 
