@@ -126,8 +126,8 @@ Previous OCR attempts failed due to **rushing through images**. When reading 100
 - ✅ 100 Chinese PDFs generated (`output/pdfs/stick_001_chinese.pdf` to `stick_100_chinese.pdf`)
 
 ### Phase 4: PDF Merging - COMPLETE
-- ✅ `output/Mazu_Fortune_Sticks_Complete.pdf` (180MB - English/Vietnamese)
-- ✅ `output/Mazu_Fortune_Sticks_Chinese_Complete.pdf` (4.8MB - Chinese)
+- ✅ `output/Mazu_Fortune_Sticks_Complete.pdf` (2.9MB - English/Vietnamese)
+- ✅ `output/Mazu_Fortune_Sticks_Chinese_Complete.pdf` (4.7MB - Chinese)
 
 ### Errors & Lessons Learned:
 1. **DO NOT RUSH** - Previous OCR had ~40-50% error rate from rushing
@@ -478,5 +478,5 @@ This gives Chrome 10 seconds to load external fonts before generating PDF.
 | HTML (Chinese) | 100 | `output/htmls/stick_XXX_chinese.html` |
 | PDF (English/Vietnamese) | 100 | `output/pdfs/stick_XXX.pdf` |
 | PDF (Chinese) | 100 | `output/pdfs/stick_XXX_chinese.pdf` |
-| Merged PDF (English/Vietnamese) | 1 | `output/Mazu_Fortune_Sticks_Complete.pdf` (180MB) |
-| Merged PDF (Chinese) | 1 | `output/Mazu_Fortune_Sticks_Chinese_Complete.pdf` (4.8MB) |
+| Merged PDF (English/Vietnamese) | 1 | `output/Mazu_Fortune_Sticks_Complete.pdf` (2.9MB) |
+| Merged PDF (Chinese) | 1 | `output/Mazu_Fortune_Sticks_Chinese_Complete.pdf` (4.7MB) |

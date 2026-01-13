@@ -16,7 +16,7 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 
 CHROME="/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"
-INPUT_DIR="${PROJECT_ROOT}/output"
+INPUT_DIR="${PROJECT_ROOT}/output/htmls"
 OUTPUT_DIR="${PROJECT_ROOT}/output/pdfs"
 
 # Parse arguments

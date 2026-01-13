@@ -67,6 +67,7 @@ if [ "$MERGE_ENGLISH" = true ]; then
         echo "Found $count English/Vietnamese PDF files"
 
         gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite \
+           -dPDFSETTINGS=/ebook \
            -sOutputFile="$OUTPUT_EN" \
            $pdf_files
 
@@ -95,6 +96,7 @@ if [ "$MERGE_CHINESE" = true ]; then
         echo "Found $count Chinese PDF files"
 
         gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite \
+           -dPDFSETTINGS=/ebook \
            -sOutputFile="$OUTPUT_CN" \
            $pdf_files_cn
 
